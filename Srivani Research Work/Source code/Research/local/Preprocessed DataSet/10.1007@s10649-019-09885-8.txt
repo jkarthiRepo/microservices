@@ -1,0 +1,808 @@
+
+developing coherent approach
+multiplication measurement
+andrew sybilla beckmann
+springer nature
+abstract
+examine opportunities challenges applying single explicit definition multiplica
+modeling situations swathe school mathematics
+review interrelated conversations multiplication research
+identifying classifying situations modeled multiplication
+identifying consistently characteristic operation considering
+nonnegative numbers review seminal research––including vergnaud
+davydov––and highlight unified
+multiplication approach measurement underscore
+quences approach outline rectangular division illustrate
+adjust connections multiplication equations
+problem situations questions unified approaches
+topics multiplication
+keywords multiplication division multiplicative conceptual coherence mathematical
+definitions
+introduction
+topics school mathematics multiplication
+demonstrated unequivocally domain complex students teachers theorists
+highlighted challenges students experience transitioning
+additive multiplicative reasoning identified limitations characterizing
+multiplication abbreviated repeated addition bryant
+norton thompson saldanha
+educational studies mathematics
+httpsdoiorgs
+andrew
+andrewizsaktuftsedu
+department education university medford
+department mathematics university georgia graduate studies building
+brooks athens
+attention examining single meaning multiplication
+diverse situations numbers reasons
+possibility researchers teachers articulation
+support students perhaps students
+arithmetic operation
+numbers fractions decimals proficient forming multiplica
+comparisons thinking groups modeling rectangular reasoning
+analyzing proportional relationships possibility
+researchers teachers articulating explicit consistent perspective
+multiplication distort partially capture facets
+complex concept modeling problem situations either
+possibilities conclusion sufficient students teachers
+multiplication appears diverse situations searching
+situations common
+article examine possibility single meaning multiplication
+measurement achieve coherence complex domain
+nonnegative numbers articulating coherence
+students teachers understand essential swathe school mathematics
+developed meaning multiplication presented
+teaching mathematics future school teachers approach instruction
+consonant mccallum’s discussion complementary stances
+matics making reference processes pattern
+seeking problem solving making reference actively
+structuring domain comprehensible making highlights
+reasoning learners making highlights reasoning
+expertise mccallum argued inattention stance detrimental
+supporting mathematics learning meaning multiplication presented
+instance making structure central
+strand school mathematics making strand accessible
+teachers ultimately students presenting design future
+teachers employ making coherent
+topics multiplication article readers
+consult beckmann beckmann stevenson
+consistent notions making making discussed
+emphasize coherence diverse connecting multiplication
+problem situations mutually exclusive person multiple thinking
+multiplication modeling problem situations repeated addition
+prescribed situations underlying structure
+equally numbers numbers furthermore
+heartedly learners experience topics multiplication
+initially disjoint developing coherent perspective multiplication carries
+consistent meaning topics accomplishment involving considerable
+psychological complexity
+distinction making making reminiscent vygotsky’s discussion
+spontaneous scientific concepts
+beckmann
+comments coherence
+shorter oxford english dictionary definition coherence provides
+descriptions smaller pieces united larger include bsticking
+together blogical interconnection bconsistency bagreement
+descriptions connote identical perspectives unification reading
+senses uniting appeared mathematics education research
+delineating senses essential contribution article
+various scholars mathematics mathematics education explicitly stated
+coherence desirable school mathematics curricula conference
+mathematical sciences mccallum schmidt mcknight
+schmidt pointed senses curriculum standards
+cohere example standards textbooks assessments schmidt
+instance bconsistency bagreement
+uniting example standards outline logical hierarchical progression
+addresses bparticulars bdeeper structures mccallum
+schmidt instance arithmetic numbers fractions
+deeper structures fields groups schmidt
+national mathematics advisory definition
+report coherent curriculum marked effective
+logical progressions earlier sophisticated topics sophisticated
+progressions multiple school mathematics characterizing
+uniting logical progression instance blogical interconnection
+approach multiplication outlined article emphasizes bconsistency
+blogical interconnection senses uniting
+reasons learners grapple challenges
+constructing coherent multiplication learning reason explicit
+meaning multiplication contact aspects mathematical
+thinking captured curriculum countries
+common standards mathematics national governors association
+center practices council school officers practices
+reasoning quantitatively constructing viable arguments attending
+precision making structure australia students bdevelop
+increasingly sophisticated capacity logical thought actions analysing proving
+evaluating explaining inferring justifying generalising australian curriculum
+assessment reporting authority germany educational standards
+ematics include general mathematical competencies examining mathematical
+testing correctness recognizing mathematical connections developing
+conjectures making explanations sekretariat ständigen
+konferenz kulturminister länder bundesrepublik deutschland
+students encounter practices opportunities experience making
+authentic discipline mathematics second explicit meaning multipli
+cation students critical resource deciding themselves relying
+external authority situations modeled operation
+students experience consistent meaning multiplication progressed through
+topics multiplication grades apparent
+experiences relevant reasoning situations fourth developing coherent
+developing coherent approach multiplication measurement
+diverse topics multiplication students construct interconnected
+knowledge reason flexibly reconstruct forgotten elements
+perspectives multiplication
+search coherence engages interrelated conversations multiplication research
+conversations identifying classifying diverse situations
+modeled operation articulating
+consistently characteristic operation discuss multiplication research
+points contribution researchers
+connected multiplication numerical operation analyses problem situations
+inconsistent incomplete second researchers identified
+characteristics distinguish multiplication addition characteristics define
+multiplication identifying characteristic features distinguish multiplication addition
+providing classifying multiplication
+researchers explicitly addressed coherence examining single
+operation numbers fractions boulet
+efforts succeeded
+situations reviewing conversations
+evident vergnaud’s seminal contributions
+vergnaud’s theory
+vergnaud defined multiplicative conceptual situations
+analysed simple multiple proportion problems
+multiply divide argued mathematics education researchers should
+comprehensive approach studying learning complex situations
+interconnected topics symbolic representations multiplication
+vergnaud’s fundamental premise situations topics notations multipli
+cation complex recommendation comprehensive
+proaches studying system
+vergnaud’s theoretical empirical approach studying
+identifying situations multiplies divides classifying
+situations underlying mathematical structures describing solution
+methods children solving problems structures
+highlight aspects vergnaud’s contributions respect topics
+consistently wholenumber multiplication division fractions ratios linear
+functions others second identified subtypes situations
+mathematical structure across publications referenced number
+subtypes varied identified isomorphism measures product
+measures multiple proportion discussed subtypes––simple propor
+multiple proportion references
+identified subtypes––simple proportion concatenation simple proportion
+double proportion comparison ratios––but referred reader
+analysis suggests analysis emphasize
+article thinking analyze students’
+beckmann
+reasoning situations vergnaud notion theoremsinaction
+bmathematical relationships account students
+choose operation sequence operations problem
+respect conversation vergnaud characterized multiplication
+bilinear composition analysis highlights students
+mathematical relationships account reasoning problem
+identified approaches analyzing isomorphism measures
+vergnaud defined isomorphism measures structure consists simple direct
+proportion measurespaces problem
+illustrate subtype question
+vergnaud stated children numerically
+answers question confused
+yields consequence children
+operations approach multiplication viewed operating
+measure reason
+answer vergnaud
+viewed multiplication scalar operator
+approach multiplication viewed function operator
+problem reason
+multiplication measure
+number attached specifically
+quotient original measure spaces
+vergnaud multiplication situations
+analyzing product measures defined product measures structure consists
+cartesian composition measurespaces
+claimed structures represented isomorphisms measures
+stated products measures analyzed double proportions
+explained situations products dimensional numerical aspects
+combinatorial rectangular problems illustrate subtype
+vergnaud combinatorial
+question boygirl couples formed stated
+product couple dimensional aspect
+couple numerical aspect vergnaud viewed
+rectangular analogously considered product
+length rectangle
+conceived multiplication
+rectangle examples product couples
+factors
+vergnaud’s analysis
+description coherence coherence sticking together
+uniting particular vergnaud discuss approaches
+modeling multiplication reflect single meaning
+operation applied structures identified approaches
+summarized transformed scalar operator
+transformed quotient function operator
+transformed product product measures diversity approaches
+relating operation multiplication problem situations raises following
+developing coherent approach multiplication measurement
+question coherence consistency single arithmetic operation
+situations situations diverse answer
+question operation multiplication conceived complex
+multifaceted concept aspects evident vergnaud’s
+analysis alternative answer question common shared underlying
+structure vergnaud’s subtypes highlight
+further classifications situations
+researchers anghileri bryant schwartz
+analyzed subtypes situations identified subtypes argued
+equalgroup situations conceived
+asymmetry multiplier multiplicand meanwhile subtypes includ
+cartesian products rectangular asymmetry interchange
+length rectangle computing schwartz
+distinguished extensive intensive quantities extensive quantities
+bamounts numbers quantities viewed counts
+intensive quantities characterize bqualities thought generalization
+notion attribute density indicator quantity intensive
+appearance analyzed
+multiplication situations combinations extensive intensive
+quantities vergnaud characterized isomorphism measures schwartz
+characterized centscake vergnaud
+characterized product measures schwartz characterized
+schwartz identified situations classified
+further characterizations multiplication
+research multiplication proposals characteristic
+strand conversation sought identify psychological primitives
+children’s notions multiplication examples researchers
+proposed repeated addition fischbein marino mental operation
+forming onetomany relationships called splitting confrey confrey
+bryant mental operation coordination
+composite called coordination steffe steffe
+vergnaud’s theoremsinaction describes
+bintuitive strategies bilinearity
+strand conversation conceptual analyses multiplication
+operation analyses emphasized distinctions
+modeling situations addition multiplication preclude reducing multiplication
+repeated addition organize analyses highlight transformation
+highlight coordinated measurement
+transformation approaches conceptual analyses multiplication proposed
+schwartz thompson saldanha characteristic
+transformation perspective discussion extensive intensive quantities
+beckmann
+reviewed schwartz argued addition situation
+addends apples apples apples
+multiplication situation factors transformed
+product characterized addition referent
+preserving multiplication referent transforming classification
+situations highlights attached
+factors product discussion characterization
+multiplication thompson saldanha echoed vergnaud’s discussion
+double proportion measure product proportional quantities
+correspond factors particular discussed measurement
+formed product factor convention standard product
+quantity defined constituent quantity
+illustrate perspective formed
+product length
+challenge transformation approaches
+derive determine product
+factors illustrate student
+measure determine product length
+create positive constant
+equation student
+accept convention justification determining product already
+tiling rectangles square centimeters coordinat
+tiling multiplication principle straight forward student
+differentiate affordances tiling rectangle square centimeters rectangles
+squares polygons connecting measures length
+multiply lengths triangles students initial
+experience rectangle reference multiplication
+subsequent tiling modeled arithmetic operation
+coordinated measurement approaches davydov alternative
+transformation characterization multiplication emphasized indirect measure
+boulet reasons
+article characterize davydov’s approach slightly
+differently coordinated measurement focused numbers motivated
+approach situations direct measurement practical
+instance ultimate measuring volume liquid
+volume enough easier measure gallons
+measure gallon
+result compute measure volume gallons
+volume volume davydov interpreted indirect approach
+measuring volume change measurement
+emphasized multiplication combining smaller larger
+building davydov’s approach multiplication contrast
+transformation perspectives discussed factors transformed
+product rather product shares example factors
+search coherence influenced davydov
+discussed boulet’s extension particular boulet
+developing coherent approach multiplication measurement
+argued single bconcept multiplication foundational understanding nature
+multiplicative thinking bwithout uniform theory studies learning
+multiplication result scattered dealing specificities
+elucidation learning concept general extended davydov’s
+notion combining smaller larger argued consistent application
+distinction multiplier multiplicand positive integers negative integers
+positive rational numbers demonstrated distinction applied across
+subtypes situations discussed however
+discussed bmultiplication formulas depending
+multiplicand numbers fractions
+natural numbers discussed multiplying fractions
+division reading iterating multiplication
+partitioning division consequence completely
+uniform theory article explain actions iterating partitioning
+meanings multiplication division iterating
+identified multiplication partitioning identified division
+multiplication coordinated measurement
+conversations summarized preceding
+articulate meaning multiplication applied consistently across
+situations isomorphism measures product measures multiple proportion
+topics wholenumber multiplication division fractions ratios linear functions
+others multiplicative conceptual section
+perspective multiplication builds davydov’s achieve
+greater degree unification boulet
+claiming
+approach viable achieve unification consistency
+logical interconnection senses
+figure summarizes definition multiplication measurement definition
+applies situations quantity product amount simultaneously
+measured groups
+exactly groups product exactly
+define product product exactly
+product summarize definition multiplication
+equation definition functions classification situations
+multiplicative identify equation
+situation contrast davydov emphasized change measurement
+smaller larger characterize definition coordinated measurement
+distinction subtle
+emphasizing solution methods mathematical structure figure double number
+represent structure greater number
+dedicated measuring dedicated measuring groups
+definition refinement appeared beckmann
+beckmann
+alignment groups central structure
+measures quantity demonstrate lefttoright
+depending situation
+points definition
+consistently assigning welldefined numbers lefthand
+multiplication righthand multiplication
+consistent assignment reveal underlying structure situations
+beckmann
+second multiplication measurement partitioning quantities
+equalsized reason intertwined central swathe school
+mathematics definition summarized explain phrase btimes
+connected determining quantity
+multiplicative comparison explicitly connecting measurement definition
+multiplication promising unifying
+numbers answers measurement question
+notion number outcome measurement consistent davydov
+adaptations
+measure
+measure product groups measure product amount
+fourth davydov tsvetkovich emphasize measurement meaning
+numbers fractions fixing measurement
+exactly—the questions
+answer greater answer
+acknowledge applying phrase
+consequential adjustment answers
+measurement questions measures define fractions quantity
+measure quantity partitioned equalsized natural
+number measure equalsized
+measure quantity formed measure notice definition
+equally interpret numbers
+measurement
+bgroups generic problem
+situation requires identifying product amount moreover
+situation reasonable assignments
+exactly
+groups
+product
+amount exactly
+product
+amount exactly
+summary definition multiplication coordinated measurement
+definition fractions refines stated common standards mathematics national
+governors association center practices council school officers
+developing coherent approach multiplication measurement
+priori equalgroup structure situation structures constructed
+people different assignments groups values
+example situation potter plates
+product amount practice context
+weight measured
+groups––there plates units––there
+multiplicand number ounces relates
+measurement equation ounces plates
+ounces models situation second
+perspective situation weight
+weight product amount equation
+double number represent coordinated measurement number measuring
+measuring groups
+exactly
+exactly
+measurement number measurement greater measurement
+beckmann
+plates ounces plates models
+situation perspective situation
+weight weight
+product amount equation ounces weight
+ounces models situation weight
+corresponds perspectives
+illustrate measurement meaning fractions applied
+applied groups applied figures
+double number represent structure measuring
+groups interpretations pottery situation
+contrast greer’s discussion situations multiplication
+asymmetric situations operation symmetric distinct
+measurement consistent inherent asymmetry approach
+perspective aligns boulet’s
+multiplication commutative calculating modeling problem
+situations structure plates
+structure plates
+situations contrast analyses
+schwartz asymmetry distinct intensive
+quantities extensive quantities measurement
+finally emphasize definition applies nonnegative numbers
+imagine teachers students modify definition needed critical
+modifications consistent definition modification
+replace bcorrespond situation notion ounces
+making plates sufficient thinking weight
+measured uniform situation however
+traveling product complete
+measured kilometers
+making
+equation kilometers correspond
+correspond kilometers correspond course
+ounces correspond motivation
+apparent encountered situation notions
+extending multiplication negative numbers
+reasonable distributive property determining
+product opposed situation signed quantities
+determination certainly distributive property central general notions product
+mathematical objects matrices vectors
+coordinated measurement coherence
+balance article rectangular division illustrate
+meaning multiplication promise realizing coherent approach
+coherent consistency logical interconnection
+senses examples illustrate approach require
+developing coherent approach multiplication measurement
+teachers researchers adjust multiplication
+problem situations
+rectangular
+recall vergnaud identified rectangular productof
+measures subtype characterized situations subtype bcartesian composition
+stated structure represented isomorphism measures
+application coordinated measurement productofmeasures situations
+returning boygirl couples meaning
+multiplication couples situation letting couple correspond
+correspond couples formed number
+ounces plates ounces
+ounces plates
+beckmann
+number couples number
+number groups product amount situation equation couples
+groups combinations couples combinations
+models situation underscore contrast analysis multiplication
+vergnaud’s recall discussed products couple
+couples parallel aspects multiplication
+discuss rectangular rectangles––a rectangle
+rectangle––to compare transformation coordi
+measurement perspectives multiplication discussion
+formation approach reflects analyses presented vergnaud
+schwartz thompson saldanha
+transformation approach multiplication combines factor centimeters
+example create square centimeters
+numerical aspect multiplication expresses double proportion vergnaud
+rectangle proportional
+length respect rectangle double proportion
+alignment dimensional numerical aspects multiplication
+series equations
+vergnaud discuss explicitly fraction discuss
+notation bmental inversion relationship scalar
+operation meaning multiplication inverting numerical operation
+function operator meaning multiplication nevertheless
+respect rectangle double proportion alignment
+ounces ounces
+developing coherent approach multiplication measurement
+dimensional numerical aspects multiplication series
+equations
+coordinated measurement perspective analysis rectangular somewhat
+different presumption multiplication rectangular rather
+groups determine meaning multiplication
+return rectangle square
+measure rectangle
+square choose column squares
+choose product entire
+rectangle because measure simultaneously
+squares equalsized groups determine situation modeled
+multiplication particular choices product
+amount equation
+squares exactlyð rectangle exactlyð
+squares rectangle exactlyð
+figure product measured simultaneously
+groups
+notice analysis wholenumber analysis
+situation measure product
+attached description situation situation
+couple situation square essence
+measuring product analysis
+measure equalsized groups approach
+measurement underlying structure meaning
+multiplication approach contrasts forming outcome
+coordinated measurement approach multiplication context squares
+exactly groups product squares product
+exactly
+beckmann
+multiplication operation furthermore familiar length formula emerges
+justification multiplication consequence fitting coordinated
+measurement perspective particular number squares
+number centimeters rectangle
+number number centimeters vertical
+length formula viewed abbreviation elides
+details coordinated measurement argument comment applies
+situation equation couples
+coordinated measurement perspective determine
+rectangle square
+exactly measurement definition fractions applied
+partition square equalsized
+groups product
+exactly measurement definition fractions applied
+partition equalsized finally
+product partitions equalsized
+measure darkly shaded simultaneously
+equalsized groups situation modeled
+multiplication particular choices
+product amount equation
+square exactlyð rectangle exactlyð
+square rectangle exactlyð
+familiar length formula derived coordi
+measurement figure double number representing
+coordinated measurement structure
+notice pottery situation instance isomorphism measures
+rectangular situations instances product measures
+interpreted number fraction measurement
+exactly furthermore presume problem situations
+coordinated measurement approach multiplication context
+exactly product exactly product exactly
+developing coherent approach multiplication measurement
+analyzed multiplicative rather definition multiplication
+decide multiplicative discussion examples illustrates
+consistency coherence vergnaud’s isomorphism measures product
+measures subtypes definition applies consistently
+division
+approach multiplication––in consistently interpreted
+measurement––has consequences thinking division
+emphasize division equation
+identify action iterating multiplication action partitioning
+division combining copies quantity iterating
+multiplication breaking quantity equalsized
+partitioning division general iterating partitioning
+actions contribute determining outcome measurement
+fractions involved actions service determining
+connected multiplication service determining
+connected division
+coordinated measurement perspective division situations characterized
+multiplication unknown factor particular situation division
+situation groups measure product amount
+question measure units––a question
+question measure product groups—a question
+referred partitive sharing division
+referred quotitive measurement division notice
+sharing partitive division measuring associated
+quotitive division discussion measuring
+division distinction partitive quotitive division
+measured–– product amount––and
+measure––
+rectangle rectangle
+beckmann
+viewing measurement consequences thinks
+division longitudinally topics starting wholenumber situations return
+situation potter
+weight product weight
+ounces potter identical plates
+identical plates potter
+groups product
+interpreting measurement consequences thinking
+topics illustrate returning distinction extensive
+intensive quantities schwartz schwartz motivated
+distinction intensive extensive quantities pounds coffee
+dollars explained combined weight
+combination increase
+schwartz’s perspective correspond intensive quantity
+correspond extensive quantities counted pounds dollars
+dollars pounds dollars
+notice however interpreting measurement distinction
+intensive extensive quantities attached numbers
+blurring occurs precisely definition explicitly treats
+product measured groups
+modified coffee situation weighing
+pounds costing dollars dollar
+product measurement definition
+multiplication follows
+dollars correspond exactlyð pounds correspond exactlyð
+dollars correspond exactlyð
+combine identical coffee schwartz’s combining
+then––making choices product amount––one
+measurement definition multiplication
+pounds correspond exactlyð correspond exactlyð
+pounds correspond exactlyð
+dollars correspond exactlyð correspond exactlyð
+dollars correspond exactlyð
+interprets referring extensive intensive quantities
+sensitive coffee situation coordinated measurement
+perspective multiplication coffee situation schwartz’s
+classification coordinated measurement subsuming distinction
+intensive extensive quantities homogeneous situations
+involving coffee return concluding discussion
+finally interpreting traditionally termed partitive quotitive division
+measurement facilitate attending explicitly division reasoning
+developing coherent approach multiplication measurement
+proportional relationships distinct possibilities beckmann
+imagine holding allowing covary
+describes quotient describes varying number groups describes
+varying number groups coffee situation
+corresponds fixing letting number pounds
+covary descriptions bbuilding methods
+lobato tourniaire literature proportional relationships
+examples approach proportional relationships second
+imagine holding allowing covary describes
+quotient describes varying number describes varying
+number groups coffee situation corresponds
+fixing number pounds letting covary
+perspective proportional relationships beckmann termed
+variableparts perspective absent literature proportional relationships
+discussion illustrates consistent measurement meaning multiplication
+wholenumber division situations proportional relationships
+perspective distinction partitive quotitive division
+distinction intensive extensive quantities advantage
+measurement questions support blogical interconnection
+coherence approach interconnections topics
+taught levels
+reconsidering unified approach
+reading theoretical approaches explicitly discussed
+coherence sticking partially
+succeeded consistency logical interconnection senses uniting smaller pieces
+larger mathematics education
+completely worked coherent approaches consistency logical
+interconnection absence articulation constraining capacity
+students teachers knowledge experience effectively relate topics
+construct interconnected bodies knowledge
+multiplication variety situations perceive
+underlying structure claiming coordinated measurement
+optimal approach approaches bilinearity
+emphasized coordinated measurement approach
+interpreting numbers outcomes measurement interpreting
+numbers cardinalities transition additive multipli
+cative reasoning researchers repeatedly identified challenging students
+teachers transition interpreting numbers
+cardinalities numbers measurements senses number
+distinguish numbers counted
+measure consider difference
+cardinality ounces ounces
+exactly beckmann distinction between
+intensive extensive quantities discussed different
+beckmann
+interpretations numbers measurements intensive quantities cardinalities
+extensive quantities interpreting numbers consistently measurement contrib
+blurred distinction discussed
+questions unified approaches
+respect coordinated measurement sketched meaning multiplication
+applied consistently situations vergnaud classified
+subtypes interpreting numbers measurement
+contributes perceiving underlying structure numbers migrate
+numbers fractions coordinated measurement
+panacea organizing learners searching
+groups mentioned explicitly problem statements challenge
+substrate knowledge supports proficient determination groups
+explicitly complex generally developing
+searching specific structure definition multiplication
+emphasized school curricula familiar furthermore howwell
+coordinated measurement perspective multiplication disciplines
+quantities physics multiplication intertwined creating
+evaluating models physical phenomena schwartz
+second respect transformation approach unifying wonder
+fundamental transformation
+couples length canmake childrenwithout making
+discussion coordinated measurement examine
+product measuring quantity
+motivate statements
+products dimensions numbers cooccur statement
+sensible characterize multiplication function
+distinguish functions bilinear connect
+measurement multiplication number multiple multiplication
+delineated vergnaud
+finally learners experience topics multiplication
+measurement initially disjoint developing coherent topics desirable
+educational support reinforce interconnected knowledge
+seeking identifying structure diverse situations reflects
+mathematics community school children experience
+acknowledgement norton mccallum conversations influenced
+thinking multiplication supported national science foundation
+opinions expressed reflect
+national science foundation
+references
+anghileri investigation children’s understanding multiplication educational studies
+mathematics
+australian curriculum assessment reporting authority curriculum mathematics
+retrieved wwwaustraliancurriculumeduau
+beckmann mathematics elementary teachers activities pearson
+developing coherent approach multiplication measurement
+beckmann perspectives proportional relationships extending complementary
+origins multiplication quantities journal research inmathematics education
+beckmann generating equations proportional relationships magnitude
+substance conceptions weinberg rasmussen
+proceedings annual conference research undergraduate mathematics education
+california
+beckmann senses implications topics multipli
+cation bergqvist österholm granberg sumpter proceedings
+conference international psychology mathematics education
+sweden
+boulet essence multiplication learning mathematics
+shorter oxford english dictionary oxford england clarendon
+conference mathematical sciences mathematical education teachers
+washington author
+confrey splitting similarity change approach multiplication exponential
+functions confrey development multiplicative reasoning learning
+mathematics albany university
+confrey splitting covariation development exponential functions
+journal research mathematics education
+mccallum curricular coherence mathematics madden
+mathematics matters education essays
+springer
+davydov psychological analysis multiplication procedures learning problems
+mathematics
+davydov tsvetkovich objective origin concept fraction learning
+problems mathematics
+fischbein marino implicit models solving verbal
+problems multiplication division journal research mathematics education
+multiplication division models situations grouws handbook research
+mathematics teaching learning macmillan
+extending meaning multiplication division confrey
+development multiplicative reasoning learning mathematics albany
+university
+proportion children’s understanding mathematics
+london murray
+beckmann stevenson measurement meaning
+multiplication connect topics content future teachers mathematics teacher educator
+missingvalue proportional reasoning problems factors informal
+reasoning patterns confrey development multiplicative reasoning
+learning mathematics albany university
+lobato developing essential understandings ratios proportions proportional
+reasoning grades series essential understandings reston national council
+teachers mathematics
+mccallum making mathematics making mathematics shimizu
+vithal preconference proceedings school mathematics curriculum reforms
+challenges opportunities tsukuba university tsukuba
+national governors association center practices council school officers
+common standards mathematics washington author
+national mathematics advisory foundations success report national
+mathematics advisory washington department education
+bryant children mathematics oxford blackwell publishers
+schmidt mcknight curriculum coherence examination mathematics
+science content standards international perspective journal curriculum studies
+schwartz intensive quantity referent transforming arithmetic operations hiebert
+number concepts operations middle grades reston hillsdale
+national council teachers mathematics lawrence erlbaum
+schwartz formulating measures toward modeling curriculum brizuela
+gravel exploring student representations disciplines
+teachers college columbia university
+beckmann
+sekretariat ständigen konferenz kulturminister länder bundesrepublik deutschland
+bildungsstandards mathematik primabereich beschluss germany
+wwwkmk
+orgfileadmindateienveroeffentlichungenbeschluessebildungsstandardsmathe
+primarpdf
+norton fostering construction meaning multiplication
+subsumes wholenumber fraction multiplication learning through activity research
+program journal mathematical behavior
+reasoning intensive quantities wholenumber multiplication possible
+understanding learning mathematics
+steffe children’s multiplying schemes confrey development
+multiplicative reasoning learning mathematics albany university
+steffe children’s fractional knowledge springer
+steffe children’s construction number sequences multiplying schemes hiebert
+number concepts operations middle grades reston lawrence
+erlbaum associates national council teachers mathematics
+thompson saldanha fractions multiplicative reasoning kilpatrick martin
+shifter companion principles standards school mathematics
+reston national council teachers mathematics
+tourniaire proportions elementary school educational studies mathematics
+vergnaud multiplicative structures landau acquisition mathematics
+concepts processes academic
+vergnaud multiplicative structures hiebert number concepts operations
+middle grades reston hillsdale national council teachers mathematics
+erlbaum
+vergnaud multiplicative conceptual confrey
+development multiplicative reasoning learning mathematics albany
+university
+vygotsky thought language cambridge
+publisher’s springer nature remains neutral regard jurisdictional claims published
+institutional affiliations
+developing coherent approach multiplication measurement

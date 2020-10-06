@@ -1,0 +1,71 @@
+Topic:0 number(0.0563) ritualisation(0.0524) points(0.0793) activity(0.8383) sinclair(0.2262) numbers(0.8584) thinking(0.9114) structured(0.3034) touching(0.1200) hundred(0.5903)
+
+Topic:1 students(0.3705) algebraic(0.3476) problem(0.8614) structure(0.1196) problemposing(0.8058) structures(0.0096) symbolism(0.0750) meaning(0.7173) semantic(0.0207) concepts(0.0060)
+
+Topic:2 differential(0.1352) relationship(0.0084) method(0.1495) geogebra(0.0917) dynamic(0.6079) participants(0.1063) acodesa(0.1776) confidence(0.5983) misconceptions(0.2921) students’(0.0276)
+
+Topic:3 threetier(0.4298) correct(0.7803) sample(0.6613) responses(0.6269) anxiety(0.1398) performance(0.6718) children(0.5524) mathematics(0.2849) cognitive(0.3492) attitudes(0.5124)
+
+Topic:4 arithmetic(0.1875) memory(0.9456) problemsolving(0.5646) function(0.4653) inverse(0.4992) noticing(0.2609) concept(0.3041) reciprocal(0.7204) student(0.2199) melissa(0.8709)
+
+Topic:5 teacher(0.0988) affect(0.4463) affective(0.4410) beliefs(0.5870) factor(0.9815) emotions(0.7620) children’s(0.6359) hannula(0.5228) assessment(0.0668) summative(0.9773)
+
+Topic:6 moment(0.1189) formative(0.9822) cabral(0.4929) social(0.5826) baldino(0.8339) splitting(0.5456) education(0.5094) journal(0.1739) educational(0.2339) learning(0.4870)
+
+Topic:7 mathematical(0.8244) studies(0.3029) international(0.0237) psychology(0.4500) competency(0.9945) competencies(0.6795) competence(0.5467) subject(0.9396) matter(0.4363) højgaard(0.8277)
+
+Topic:8 contexts(0.6753) decrease(0.7682) increase(0.7468) pictorial(0.4262) change(0.8235) auditory(0.3431) modality(0.4169) variable(0.7967) algebra(0.4573) grades(0.4157)
+
+Topic:9 variables(0.7547) teaching(0.8307) teachers’(0.3660) development(0.6625) classroom(0.2934) knowledge(0.9128) intervention(0.3510) rational(0.9899) sampling(0.9283) lesson(0.9445)
+
+Topic:10 scores(0.4283) frequency(0.5259) effects(0.9991) characteristics(0.8489) solution(0.1808) groups(0.7514) digital(0.4614) technology(0.2865) design(0.8378) environments(0.7143)
+
+Topic:11 distance(0.1356) courses(0.4103) intuitive(0.6505) conceptions(0.0180) strategies(0.1061) conception(0.3321) implementation(0.4796) professional(0.2411) material(0.1398) schools(0.8052)
+
+Topic:12 materials(0.8695) improvement(0.1699) communities(0.7642) strategy(0.2500) primary(0.5693) secondary(0.1469) pattern(0.5172) activities(0.6005) generalisation(0.3802) language(0.4899)
+
+Topic:13 english(0.2827) cummins(0.1610) bigger(0.4857) eighth(0.8058) african(0.4597) skills(0.1440) kindergarten(0.5041) arithmetical(0.9705) orientation(0.2298) motivational(0.3603)
+
+Topic:14 achievement(0.2187) lepola(0.9185) ritual(0.2181) rituals(0.2136) routines(0.3055) practices(0.9329) explorations(0.3201) discourse(0.8003) participation(0.4179) heydmetzuyanim(0.0907)
+
+Topic:15 understanding(0.7501) processes(0.9789) theoretical(0.6645) university(0.8355) abstract(0.3718) published(0.0503) springer(0.9690) nature(0.3324) keywords(0.8856) factors(0.3516)
+
+Topic:16 policy(0.1749) sweden(0.9218) swedish(0.2806) events(0.7176) brackets(0.3831) expression(0.7731) answers(0.2944) expressions(0.0316) operations(0.5062) midpoint(0.8480)
+
+Topic:17 shapes(0.7662) defining(0.2996) semiotic(0.0291) dialogic(0.0501) definitions(0.7224) collaborative(0.9108) parallelogram(0.7853) geometry(0.9423) inquiry(0.6603) geometric(0.1125)
+
+Topic:18 version(0.9173) coincide(0.5826) logical(0.5289) procedure(0.5865) procedural(0.1927) procedures(0.0767) algorithm(0.1901) written(0.7284) justifications(0.8011) column(0.8859)
+
+Topic:19 multiplication(0.8261) measurement(0.6683) product(0.5405) approach(0.4898) division(0.3325) situation(0.2422) elements(0.6522) desired(0.2151) berries(0.8167) probabilities(0.7373)
+
+Topic:20 undesired(0.8545) katrine(0.7883) jankvist(0.1624) equations(0.2725) reasoning(0.1901) sinusoidal(0.2384) period(0.6361) parameters(0.6682) aspects(0.1530) vygotsky(0.1996)
+
+Topic:21 relation(0.7745) thérèse(0.3210) inclusion(0.6800) inclusive(0.8085) diversity(0.9368) equity(0.6790) discourses(0.3341) history(0.5973) sensesf(0.0945) historical(0.5288)
+
+Topic:22 conflict(0.2750) difficulties(0.6659) triangles(0.9633) angles(0.5935) answer(0.3371) question(0.7689) examples(0.4483) epistemic(0.5287) explaining(0.0457) discursive(0.3020)
+
+Topic:23 textbook(0.4925) styles(0.6458) exercises(0.6237) connections(0.2440) worked(0.5235) reader(0.5328) national(0.9753) science(0.4459) curriculum(0.5053) analysis(0.9748)
+
+Topic:24 conducted(0.4601) interviews(0.0271) selected(0.9781) analyzed(0.3386) classrooms(0.1557) cultural(0.3062) speaking(0.5293) chapter(0.7805) philosophy(0.0390) creative(0.8806)
+
+Topic:25 commons(0.8483) resources(0.9521) addition(0.6142) control(0.1183) preschool(0.4721) counting(0.3745) prospective(0.5229) numeracy(0.4335) selfefficacy(0.2527) attention(0.4898)
+
+Topic:26 shifts(0.0758) solving(0.7278) properties(0.6876) verbal(0.3657) formats(0.1944) ritualenabling(0.4417) routine(0.4730) explorationrequiring(0.0547) lessons(0.1405) languages(0.7884)
+
+Topic:27 learners(0.7287) culture(0.5047) tensions(0.6716) multiple(0.8110) solutions(0.7685) perceived(0.5996) instruction(0.1869) drawing(0.7796) interview(0.4401) discussion(0.9087)
+
+Topic:28 shared(0.0019) explain(0.5238) pointing(0.7766) previous(0.2667) worthington(0.5756) symbolic(0.1550) nursery(0.9078) abstraction(0.2113) personal(0.8296) content(0.3954)
+
+Topic:29 applications(0.2689) identity(0.2258) identities(0.3913) listening(0.1374) dimensions(0.1054) modeling(0.2368) france(0.3197) modelling(0.3618) german(0.6382) germany(0.4784)
+
+Topic:30 explanation(0.2496) interaction(0.9109) interactional(0.0340) explicitly(0.5134) perimeter(0.5441) blending(0.8386) infinite(0.7505) spaces(0.0756) blended(0.0021) infinity(0.2325)
+
+Topic:31 generalization(0.3249) levels(0.1966) progression(0.9503) figural(0.6058) generalizations(0.2767) examination(0.6475) reform(0.7563) regular(0.8962) assignments(0.0406) papers(0.6332)
+
+Topic:32 binary(0.0882) critical(0.8930) metaphors(0.3981) attributes(0.4230) movements(0.1746) mental(0.7133) schindler(0.2867) lilienthal(0.2692) interpretation(0.4263) recall(0.2408)
+
+Topic:33 proofs(0.0585) explanatory(0.7730) individual(0.4393) argument(0.9977) theorem(0.1236) inferential(0.3135) enumerative(0.3729) scaling(0.5783) innovations(0.1148) innovation(0.7594)
+
+Topic:34 regional(0.7747) krainer(0.4307) initiative(0.9029) austria(0.9778) pupils(0.2298) fractions(0.0655) fraction(0.6682) partwhole(0.7412) subconstruct(0.7426) congruency(0.5472)
+
+Topic:35 example(0.9107) specific(0.0893) context(0.8336) general(0.2157) understand(0.2713) considered(0.5689)
