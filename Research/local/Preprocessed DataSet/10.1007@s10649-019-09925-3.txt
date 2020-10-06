@@ -1,0 +1,697 @@
+
+theory students’ perceptions binary operation
+kathleen melhuish brittney michael
+springer nature
+abstract
+binary operations fundamental structures underlying number
+algebraic systems researchers implicit student
+understanding structures analyze students’ percep
+general binary operation twophase consisting taskbased
+surveys interviews document attributes binary operation theory
+students perceive critical metaphors students convey
+attributes students superficial features critical
+elementoperatorelement formatting perceive critical features
+essential binary attribute further attributes communicated across
+metaphor categories arithmeticrelated functionrelated organizationrelated
+keywords binary operation theory metaphors variation
+binary operations fundamental structures underlying number algebraic
+systems researchers implicit student understanding
+structures analyze students’ perceptions general
+binary operation twophase consisting taskbased surveys interviews
+document attributes binary operation theory students perceive critical
+metaphors students convey attributes students
+superficial features critical elementoperatorelement formatting
+educational studies mathematics
+httpsdoiorgs
+kathleen melhuish
+melhuishtxstateedu
+brittney
+bmepdxedu
+michael
+mhtxstateedu
+university university marcos
+portland university boadway portland
+always perceive critical features essential binary attribute further
+attributes communicated metaphor categories arithmeticbased function
+organizationbased
+binary operations foundational mathematics curriculum
+arithmetic functions matrices bergeron alcántara
+although binary operations profuse levels mathematics
+formally defined advanced undergraduate courses theory setting
+binary operation defined
+binary operation function mapping
+general treatment binary operation highlight structural similar
+operations mathematical systems despite
+prevalence operations mathematical systems attention
+student understanding general binary operation disconcerting
+reasons binary operation concepts connected
+theory secondary novotná
+survey expert theory instructors binary operation important
+topics theory melhuish fasteen
+survey expert instructors revealed neglect through
+rounds ratings delphi consensus protocol experts identified binary
+operation difficult topics students melhuish fasteen
+delphi served launch largescale exploration student understanding
+identified theory topics student understanding binary
+operation influenced performance targeting topics ranging associative
+property subgroups melhuish fasteen melhuish
+larsen wasserman students struggle engaging
+binary operations theory students’ struggle binary operations
+designed qualitative explicitly student perceptions binary operations
+variation theory marton students’ varying perceptions
+binary operations attributes communicated metaphors research
+questions
+attributes students critical engaging binary operation
+metaphors students leverage communicating operations
+attributes
+theoretical framing
+analyze students’ perceptions operations grounding theory
+students variation theory learning individualized experience through
+variations concept instantiations primary context learning marton
+learning defined perception attributes
+include closure binary operation definition acknowledge inclusion closure universal
+melhuish
+phenomenon experience phenomenon individual
+understanding concept reflects attributes concept foregrounded
+through variation instantiations individual properties
+comparing examples nonexamples students perceive attributes critical
+aspects permissible variations marton critical aspect attribute
+concept invariant examples binary operation students
+discern critical aspect inputs encounter nonexample
+number inputs permissible variations contrast features across
+examples concept student experiences instantiations particular
+variation overgeneralize attribute critical aspect binary
+operation student perceive feature symbol critical
+experience contrasting notation
+variation theory complementary cognitive social investigations
+learning shifting cognition perception dahlin variation theory
+stance positivist underlying assumption indicating expert identify
+critical aspects permissible variations mathematical concept through
+student’s interaction concept opportunity occurs opportunities
+students perceiving desired attributes variation theory posits
+learning situations mathematical objects stages intended object learning
+teacher curricular learning enacted object learning actually
+learning situation object learning marton
+object reflects students perceive critical
+experiences object individual experiences
+classroom perceptions variations
+observed lesson synchronic earlier
+experiences backdrop perceiving variations diachronic
+simultaneity vikström object learning parallels constructs
+vinner’s concept image—a students’ concept surrounding
+cognitive structures student’s knowledge concept memorized formal
+definition surrounding attributes students’ experiences examples
+concept understanding formal setting theory
+expect students perceived varied critical aspects binary operation beyond
+formal definition
+marton learning process discerning features
+structuring features larger concept vikström
+expanded variation theory incorporate metaphor structuring
+metaphors concretizing mathematical concepts lakoff
+vikström’s metaphors students structure
+communicate objects learning students engage
+metaphors connect situation greater understanding concept
+generally metaphors defined projection source domain target
+domain example familiar context object collections source
+metaphor mathematical context arithmetic target lakoff distin
+grounding metaphors metaphors connect mathematics
+everyday experience linking metaphors metaphors connect different
+mathematical domains students’ grounding
+metaphors understanding binary operations
+theory students’ perceptions binary operation
+vikström’s theory linking variation metaphors examine
+students’ object learning attending grounding metaphors
+critical aspects communicated metaphors
+literature review
+situate literature
+binary operation general researchers occasional
+difficulty larsen’s reinvention identifying students required
+support formulate definition operation” however researchers
+explored student conceptions binary operation theoretical cognitive
+models devries dubinsky thomas’s actionprocessobject
+positions illustrations overarching theories hazzan’s reducing
+straction synthesize studies arithmetic studied
+specific binary operations literature function binary operation
+specialized function backgrounds analysis binary operation
+contributes potential attributes metaphors general operation
+setting
+processobject duality operations arithmetic
+literature documented aspects understanding arithmetic operations
+shifting concrete referents slavit
+operation expression process object aspects
+genetic decompositions general operation construct
+wasserman decompositions theoretical
+larger studies student understanding theory decompositions illustrate
+progressively sophisticated conceptions operation concept action conception
+reflected “evaluate operation specific instance frequently
+requiring visible physical manipulations” example adding
+elements require merger collections students longer
+concrete referents operation totality process
+conception action anticipated returning
+addition example student conceive adding numbers needing individual
+numbers process encapsulated student operation
+manipulated student object conception wasserman explains
+student object conception operation expression equivalent
+conceptions coordinated problemsolving situation
+student schema conception researchers documented students
+action process conceptions binary operation working
+unfamiliar operations context theory larsen
+activity unfamiliar operations
+another theory studies explicitly focused unfamiliar operations
+uncovering student struggles making increases sophistication novotná
+melhuish
+argued recognizing familiar operations addition
+nizing unfamiliar binary operations markers structure
+algebra hazzan argued students sophistication
+engage binary operation constructs inverses unfamiliar settings
+example documented student providing inverse operation addition
+rather engaging unfamiliar operation student reverted familiar
+operation multiplication melhuish documented providing
+miliar context modular arithmetic unearth potential issues binary operation
+largescale students recognize addition addition
+operations respectively
+problematic determining subgroup
+sample students responding incorrectly novotná hazzan
+melhuish evidenced student complete understanding
+operation recognize familiar operations productively engage
+familiar operations theory students studies perceived
+critical aspects operation needed unfamiliar situations
+zaslavsky alternate unfamiliar operations having
+preservice teachers generate examples binary operations commutative
+associative standard operations requirement
+familiar examples examples nonbinary operations operations
+relevant property combination develop
+researchable questions students perceive definitional aspects
+binary operation binary perceptions operation
+account incoherence operation properties moving parentheses without
+attention operation associativity
+representations operation
+representations parsing students’ understanding mathematical
+concepts student understands concept flexibly engage
+representations binary operations explicit symbolic operation
+tables dominant representations researchers
+students reason binary operation tabular representation
+hazzan conjectured students perceive tabular representations
+attribute binary operation students reason
+because explored binary operation representations literature
+function insight student treatment representations researchers
+students struggle function representations
+conceive representations function different
+functions panaoura eracleous gagatsis robust findings
+literature students require prefer explicit symbolic
+representations advantageous thompson argued
+preference remains undergraduate “predominant evoked
+students ‘function’ written expressions separated
+proportion students addressed isomorphic
+“incorrect” category melhuish nuanced treatment
+theory students’ perceptions binary operation
+conjectured students perceive explicit symbolic
+critical aspect binary operation
+metaphors operation
+representations literature relevant metaphors exists contexts
+notably series metaphors ground arithmetic operations
+dominant collection metaphor lakoff addition conceived
+combining collections objects lakoff metaphors grounding
+metaphors domain addition grounding embodied experience
+collection objects operation metaphors specific operation
+scaling multiplication renert specific operations
+collections arithmetic general operations object construction lakoff
+binary operation elements constructs
+theoretical nature conjecture metaphors empirically
+students engage general binary operation
+function literature insight number metaphors students
+leverage attending function portion binary operation definition
+lakoff núñez’s categories include function machine function
+collection objects directional recently zandieh rasmussen
+categorized function metaphors linear algebra students inputoutput travel
+mapping morphing machine commonality categories entity
+entity description connected” binary
+operation entity elements entity
+element conjectured metaphors
+general binary operation setting
+conclusion
+deduce prevalence binary operations
+elementary onward understanding nontrivial students further
+researchers started unpack intricacies understanding concept
+genetic decompositions documenting student struggles unfamiliar
+contribute foundation complementary exploration
+students’ perceived critical aspects representational definitional metaphors
+organize communicate perceptions specifically answer following
+questions
+attributes students critical engaging binary operation
+metaphors students leverage communicating operations
+attributes
+methods
+alignment theoretical perspective designed twopart engage
+students examples nonexamples binary operation surveys interviews
+melhuish
+worked underlying assumption students different
+experiences perceive binary operation differently metaphors critical
+aspects
+context collection
+consisted survey target students’
+object learning survey administered reported
+refined administered introductory undergraduate algebra classes
+universities classes focused theory
+students definition binary operation closure designed
+survey literature search conjectures
+theory melhuish melhuish fasteen students opportunities
+engage binary operation examples nonexamples activities
+determining instantiation concept pesonen
+haapasalo
+determining examples mathematically novotná stehlíková
+determiningwhat properties examplemay novotnáhoch
+generating meeting criteria zaslavsky
+conjectured activity uncover critical aspects students’ personal
+definition designing varied feature inputs activity uncover
+critical aspects determined students’ perceived nature operations
+designing operations defined holistically element
+activity uncover critical aspects notation moving property
+notated generically operation notated specifically elementoperatorelement
+formatting activity uncover implicit aspects treated critical constrain
+generating building operation familiar explicit symbolic
+available activity openended prompt students explain
+reasoning furthermore evaluate correctness students’
+responses elicit reasoning illustrate binary operation attributes
+students foregrounding surveys contained questions
+tional content institution report
+questions
+addition surveys conducted semistructured interviews
+participants deeper insight students’ mathematical thinking worked
+survey students volunteered survey rounds additional students
+recruited institution responses shortened survey
+binary operation function assigns ordered elements element
+classes notation typically generalized arithmetic notation multiplication addition
+sameness prompts construct sameness welldefined
+mathematically normative approaches sameness include identical inputs producing identical outputs
+tially restricted domains subgroups operation parent
+inducing isomorphic structures magmas melhuish czocher detailed discussion
+multitude reasonable approaches sameness operations
+theory students’ perceptions binary operation
+different semester capture survey response attribute
+identified survey analysis interviewed students treating attribute
+critical students treating attribute variable during interview students
+explain understanding binary operation reasoning
+survey survey responses students
+interview purpose interviews twofold validate interpretations
+written responses closer inspection metaphors leveraged
+verbal communication
+analysis
+analyses driven methods phenomenographic analysis trigwell
+conducted phases wanted identify perceived critical aspects
+varied twentyfour survey responders through literature review
+studies identified attributes binary explicitsymbolic
+elementoperatorelement formatting designed elucidate whether
+students treating attributes critical variable however
+attributes emerge responses analyzed surveys
+attributes identified additional attributes treated critical students
+variable others attributes researchers independently
+surveys identifying student treated attribute critical aspect critical
+permissible variation variable inconsistently critical variable
+agreement researchers average resulting
+attribute categories
+situate students’ perceived critical aspects permissible variations conducted
+analysis interviews larsson holmström’s
+phenomenographic process relies primary reader coreader develop
+profiles readers entirety transcribed interviews identified
+instances binary operation addressed analyzed excerpts
+survey
+melhuish
+theory students’ perceptions binary operation
+perceived critical aspects metaphors analysis identification
+metaphor categories arithmetic function organization expanded results
+interview participant primary reader classified subject’s dominant metaphor category
+coreader serving validate challenge interpretations through process
+operationalized dominant metaphor individual
+dominant metaphor metaphor communicated
+metaphor evoked context identified
+additional nondominant metaphors metaphors student communicated relation
+organization comparing operations context
+arithmetic dealing arithmetic interview participant created
+profiles descriptions dominant metaphor categories perceived critical
+aspects permissible variations binary operation
+results
+through analysis students exhibited treatment attributes
+closure binary elementwisedefined elementoperatorelement formatting explicit
+symbolic descriptions attribute frequency students
+treating attribute critical consistent attribute operation variable attribute
+operation attributes student
+responses diverged treatment features critical variable subsections
+interview illustrating variable critical treatment attributes
+additionally followup interviews identified categories metaphors
+students communicated binary operation attributes functionbased arithmet
+icbased organizationbased function arithmetic
+metaphor occurred interviews acknowledge critical aspect element
+wisedefined critical depending context aspect critical
+determining subgroup operation parent
+“limitations” discussion overview
+metaphor attribute profiles interview participants
+functionbased metaphors
+category unpack functionbased metaphors functionbased metaphors
+leverage notions mappings directionality indicating elements mapped
+lakoff identified function machine function
+collection objects directional grounding metaphors function concept
+language indicators “inputs” “outputs”
+functionbased metaphors johnny’s insight metaphor
+category explained binary operation binary operation
+concerned numbers generate unique output”
+johnny’s description binary operation language functions
+critical aspects primary definitional property binary inputs johnny’s overall
+profile closure variable binary critical elementwisedefined critical
+elementoperatorelementformat variable explicitsymbolicrule variable
+melhuish
+theory students’ perceptions binary operation
+johnny binary critical aspect ambiguous
+ffiffiffiffiap remained concerned inputs communicated
+concern function language
+immediately binary operation
+numbers output depend
+register binary operation
+interviewer modifying
+ffiffiffiffi
+ffiffiffiffiffiffiffiffiffiffiffiffi
+johnny focusing inputs definitional property
+johnny explained function “totally” binary operation reflecting
+treatment closure potential variable aspect
+appeared closure addressing addition
+explicitly numbers” return number generated
+explicitly thought closure
+reference “within answered right”
+evidenced hesitancy closure aspect interviewees
+closure primary critical definitional aspects
+sameness prompts johnny continued function language attend
+critical aspect elementwisedefined addressing explained
+inputs outputs different completely you’re dealing
+operation” prompting example elaborated
+divided inputs
+outputs different
+operation different” explanation evident johnny treated binary
+operation determined elements
+operation johnny explained “plugged random
+numbers” producing counterexample contrast partici
+johnny assess operation totality focusing
+portions elementoperatorelement formatting johnny treated element
+operatorelement formatting permissible variation allowing operations alternate
+formats
+johnny treated symbolic permissible variation clearly
+evidenced addressing prompt create binary operation explained
+cayley representation arbitrary diamond
+operation familiar
+preset operation specify
+combines inputs produce single output
+inputs produces output…
+johnny’s inputs outputs permissible variations
+ultimately include closure critical aspect
+johnny’s response
+melhuish
+arithmeticbased metaphors
+category unpack arithmeticbased metaphors metaphors naturally
+extend grounding metaphors familiar arithmetic operations indicating objects
+formed object metaphor category reflected lakoff núñez’s
+arithmetic metaphors metaphor arithmetic construction
+tified language indicators category “combines” “constructs” “answer”
+together” claiming mutual exclusivity arithmeticbased
+functionbased metaphors identified difference elements
+internally combined arithmetic inputted outputted mapped different
+element function
+arithmeticbased metaphors erin’s instantiates dominant
+metaphor arithmetic language “answer” emerged reflections
+definition remembered unique
+answer” articulated additional arithmetic imagery combine
+numbers answer unique”
+combining language conjunction answer language strong indicator
+leveraging arithmetic metaphors critical aspects primary definitional
+property closure erin’s profile closure critical binary variable
+elementwisedefined variable elementoperatorelementformat critical
+plicitsymbolicrule critical
+definitional aspects treated closure critical binary permissible
+variation feature permit examples addition explaining
+numbers together” remain
+reject examples square function “because integer negative
+square complex number
+integer” similarly addressing attend binary aspect
+registered concern uniqueness “[y]ou
+answer evidencing binary permissible variation although
+uniqueness property connection functions erin’s language remained
+consistent arithmetic metaphors
+arithmetic language appeared evaluating operations
+language “combination” operating elements
+general voiced uncertainty attributes operation determined
+approaching explained pattern
+focused squaring element
+identified
+squared answers critical difference
+explaining “pattern”
+interviewer operations
+addition addition remained unsure noting
+“addition”
+representation erin’s engagement reflected treatment explicit
+symbolicrule elementoperatorelement formatting critical example
+struggled representation easily
+converted explicit symbolic elaborated section
+theory students’ perceptions binary operation
+appeared searching “pattern” interpreted
+explicit dealing explicit
+struggled operation elementoperatorelement formatting
+addressing operation format
+[operation] focused individual operations element
+operatorelement formatting moving parentheses associativity explaining
+multiplying
+adding metaphor language
+“taking” ambiguous reasonable conjecture arithmetic
+elementoperatorelement formatted aspects
+overall voiced concerns concept binary operation
+aspects critical describing stands
+arithmetic metaphors
+insight struggles engaging aligned traditional
+arithmetic features
+organizationbased metaphors
+metaphor category emerge organizational metaphors metaphor
+category captures language reflecting operation organizing indicators included
+language “behaving” “pattern” “structure” metaphor parallel
+processconception operation operation appreciated holistically however
+metaphor organizing patterning ensure sophisticated
+conception
+organizationbased metaphors examples metaphor observed frequently
+function arithmetic served dominant erin’s nondominant
+erin’s organization varied productivity sometimes
+served hindrance support prompts kyle’s
+productive allowed sameness prompts
+priately excerpts illustrate metaphor
+communicated
+approached engaging operation
+organization explained minute
+pattern there’ thought
+patterning metaphor structure
+‘nice’ expressible pattern indicating explicitsymbolic critical
+aspect evidenced expressed general concern
+thinking interview
+brought patterns multiple organization
+metaphor context comparing operations compar
+operations explained question
+fundamentally different” [operations] behave similarly”
+behavior support treating sameness isomorphism
+considered operations totality
+melhuish
+dominant metaphor
+finally remiss identify dominant
+metaphor participant language reminiscent arithmetic “answer”
+incorporate surrounding metaphors binary operation example
+binary operation phoenix explained operation
+elements elements groups elements
+prompted explain “operation” explained
+defined product division
+without grounding metaphors phoenix appeared struggle identify binary
+operations situations example identified addition”
+operation prompted struggled operation
+honest binary operation”
+explain familiar
+operation modular arithmetic phoenix easily
+familiar contexts allowing permissible variations elementoperator
+element formatting nonsymbolic representations attending aspects binary
+defined elementwise
+discussion
+primary contributions illustrated
+theory course students critical aspects binary operation
+definition binary closure furthermore students binary operations
+defined elementlevel critical inattention attribute account
+students commonly forming subgroup operation
+melhuish setting another students treated
+representational elements critical permissible variations explicit
+symbolic paralleling function literature thompson element
+operatorelement formatting number binary operations function composition
+frequently notated format without flexible
+treatment symbolic addressing properties associative property
+challenging
+contribution exploratory analysis metaphors organize
+communicate attributes identified function arithmetic organizationbased
+metaphors analysis hypothesized connections attributes
+students dominant function metaphors attended binary
+critical aspect hypothesize connecting binary operation function foreground
+binary feature atypical functions encountered context
+diachronic simultaneity vikström second students leveraged arithmetic
+dominant metaphor attended closure critical aspect conjecture attention
+reflect experience arithmetic settings assumes operations closed
+numbers explanatory hypotheses critical variable
+aspects students exhibiting function dominant metaphors
+allowed binary operations explicitsymbolic
+understanding function robust allowing permissible variations
+theory students’ perceptions binary operation
+potentially precipitated leaning function metaphors finally
+students engaged organization metaphor gained insight settings
+comparing binary operations struggled engaging operation
+pattern function dominant students robust
+attribute profile documented productive mathematical thinking across
+metaphors metaphor supportive contexts
+connecting research
+intended complement concept binary
+operations action process object schema decomposition dissect
+students’ conceptions binary operations looking critical
+aspects metaphors students’ conceptions
+evidence needed understanding example student
+object conception binary operations develop awareness
+permissible representation variations binary operation
+object presented modular arithmetic operation
+elementoperatorelement format object conception require flexibility
+binary operation object representations
+familiarity analysis reflects additional aspects relate familiar
+unfamiliar binary operation student students struggled
+unfamiliarity parallel zaslavsky peled’s preservice teachers moving
+generating explicitly evidenced students struggled number
+aspects definitional representational aspects insight
+constitutes “unfamiliar” novotná hoch’s framework variation viewpoint
+unfamiliar binary operation possessing variations student
+perceive permissible example unfamiliar symbolic unfamiliar
+representations familiar binary operations setting students
+demonstrate sophistication binary operation
+limitations
+smallscale claims generalizability survey across
+institutions curricula attempt capture student perceptions
+binary operations setting identified perceived
+critical aspects permissible variations classes
+prevalent attributes associativity become
+prominent larger population surveyed
+acknowledge design entered number
+conjectured attributes literature research
+examples nonexamples survey intentional variations features
+however unintended uniformity masked
+ceived aspects binary operations instance prompts functions
+nonfunction unearth students function
+aspect critical further attention critical aspects binary
+survey itself feature foregrounded taking
+survey binary operations
+melhuish
+finally acknowledge critical context dependent
+shaped researchers example elementwise defined critical
+aspect binary operation determining sameness typical treatments sameness
+algebra subgroups operation parent isomorphic
+structures however students’ notion operation differ reasonable manners
+addition addition operation addition
+implications
+implications education mathematics
+students engage mathematical structures operations
+algebra linear algebra emphasize binary operations
+construct preloaded arithmetic function settings
+additional providing structure objects groups students
+grapple formal definitions current experiences impact
+objects learning researchers instructors benefit attending explicitly
+binary operations providing students experiences discern important
+critical variable aspects variation
+binary operations implica
+earlier experiences operations students develop
+structure appreciating associative property multiplication addition
+property binary operation explicit structure itself
+treatment mitigate number issues documented literature
+example students expressions lefttoright procedures herscovics
+kieran binary operation function inputs
+direction compute operations expression treated orders
+properties associative property string numbers
+operator symbols generalized understanding binary operation support
+students making notation superscript denotes
+inverse multiplication function composition connection infrequently
+students kontorovich binary operation structure constant
+number algebraic systems however rarely engage students
+connected notions binary operation
+summary illustrate students’ implicit experiences
+explicit experiences undergraduate courses foregrounding critical
+aspects binary operations followup studies analyze students arrived
+object learning include analysis metaphors example
+variation textbooks instruction furthermore interventions developed
+leverage examples highlight critical aspects permissible variations binary
+operations opportunity connect concept binary operation metaphor
+categories
+references
+simplicity complexity complication function concept
+cockburn proceedings norwich
+theory students’ perceptions binary operation
+history mathematics mathematics education reflections examples
+schwank proceedings conference european society research mathematics
+education osnabrück germany forschungsinstitut mathematikdidaktik
+bergeron alcántara mathematics comparability curriculum assessment compar
+retrieved website httpwwwiboorgglobalassetspublicationsib
+researchdpmathscomparisonsummaryreportpdf accessed
+devries dubinsky thomas learning operations groups subgroups
+journal mathematical behavior
+dahlin enriching theoretical horizons phenomenography variation theory learning studies
+scandinavian journal educational research
+renert profound understanding emergent mathematics broadening construct
+teachers’ disciplinary knowledge educational studies mathematics
+pesonen haapasalo assessment university students’ understanding abstract
+operations nordisk mathematikdidaktikk
+panaoura eracleous gagatsis relations secondary pupils’ conceptions
+functions problem solving representations international journal science
+mathematics education
+duality ambiguity flexibility “proceptual” simple arithmetic journal
+research mathematics education
+hazzan reducing abstraction learning algebra concepts educational studies
+mathematics
+hazzan reducing abstraction constructing operation journal
+mathematical behavior
+herscovics kieran constructing meaning concept equation mathematics
+teacher
+student understanding cartesian connection exploratory journal
+research mathematics education
+kontorovich students’ confusions reciprocal inverse functions international journal
+mathematical education science technology
+lakoff mathematics embodied brings
+mathematics
+larsen reinventing concepts isomorphism jessica sandra
+journal mathematical behavior
+larsson holmström phenomenographic phenomenological analysis matter
+examples anaesthesiologists’ international journal qualitative studies
+health wellbeing
+marton learning awareness routledge
+marton conditions learning journal learning
+sciences
+melhuish conceptual replication studies theory journal research mathematics
+education
+melhuish czocher division pretty multiplication review
+melhuish fasteen results concept inventory exploring operation
+introductory theory performance fukawaconnelly infante
+annual conference research undergraduate mathematics education
+pittsburgh
+novotná structure algebraic expressions equations structure
+algebra mathematics education research journal
+novotná stehlíková structure university algebra novotná
+moraová krátká stehlíková proceedings international
+psychology mathematics education prague republic
+slavit operation transitions arithmetic algebraic thought educational
+studies mathematics
+vinner concept concept definition mathematics reference
+limits continuity educational studies mathematics
+thompson students functions undergraduate curriculum dubinsky schoenfeld
+research collegiate mathematics education
+trigwell phenomenography approach geography education journal
+geography higher education
+melhuish
+vikström intended realized learned teaching learning biology
+primary school classroom journal science teacher education
+wasserman making algebra exploring secondary teachers’ understandings
+inverse functions relation structure mathematical thinking learning
+zandieh rasmussen characterization unified notion mathematical function
+school function linear transformation educational studies mathematics
+zaslavsky inhibiting factors generating examples mathematics teachers student
+teachers operation journal research mathematics education
+publisher’s springer nature remains neutral regard jurisdictional claims published
+institutional affiliations
+theory students’ perceptions binary operation

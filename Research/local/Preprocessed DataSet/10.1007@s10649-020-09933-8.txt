@@ -1,0 +1,640 @@
+
+conviction explanation
+multiple representation systems combinatorics
+lockwood caughman
+springer nature
+abstract
+longstanding conversation mathematics education literature proofs
+explain proofs convince characterization
+explanatory proofs propose theory explanatory
+proofs mathematics education representation systems illustrate
+combinatorial proofs focusing binomial identities finally
+leverage theory explain audiencedependent audienceinvariant aspects
+explanatory throughout context combinatorics emphasize points
+examples proofs explanatory convincing depending
+understands
+keywords proofs explain convince combinatorics binomial identities
+introduction motivation
+consider identity nonnegative integers binomial coefficients
+satisfy
+proofs explanatory
+experience mathematics educators explan
+explanatory follows
+educational studies mathematics
+httpsdoiorgs
+lockwood
+eliselockwoodoregonstateedu
+oregon university corvallis
+portland university portland
+rutgers university brunswick
+provide theory explanation judged
+explanatory depending motivation background knowledge reader
+theory offers explain
+judged explanatory
+theoretical characterization explanatory
+leveraging examples proofs combinatorics purpose
+threefold propose theory explanatory proofs
+matics education representation systems proofs
+written understood mathematics educators contended
+distinction proofs explain proofs convince
+jahnke stylianides sandefur
+watson however mathematics education community
+acknowledges consensus explanatory should
+indeed concept understood bartlo stylianides
+consequently theory explanatory adequate
+mathematics educators urgently needed candidate
+theory second illustrate combinatorics general
+binomial identities particular fruitful context
+proofs convince explain leverage theory explain
+audiencedependent audienceinvariant aspects explanatory specifically
+maintain theory elucidate explanatory nature thereof
+proofs depend reading
+explained explanatory nature proofs agreed
+students mathematicians
+enumerative
+algebraic
+lockwood
+background literature relevant theoretical perspectives
+definition stylianides developed charac
+terizing school mathematics
+clarifications stylianides’ characterization proofs
+subset mathematical arguments mathematical argument
+mathematical argument second stylianides’ define
+respected classroom community retaining mathematical integrity
+argumentation stylianides’ character
+ization interpret statement professional mathematical community accepts
+inferential scheme community represen
+tation community suitable
+satisfy constraints individual classroom community balacheff
+individual decides argument estimate
+community specifically cognition professional mathematicians instance
+inference allowable individual accept
+community deciding argument
+involves social judgment contrast deciding
+argument convincing explanatory psychological judgments
+fourth proving referring activity individual construct
+argument conforms stylianides’ characterization
+explanatory proofs
+mathematics educators recommended central mathematics
+classrooms stylianides summary argument
+demonstrates theorem logically consequence statements accepted
+accordingly students psychological certainty theorems
+sowder however scholars argued explain
+theorem students devilliers noting
+proofs explanatory professional mathematicians’ practice villiers
+steiner
+highlight distinction researchers distinguished proofs
+convince proofs simultaneously convince explain
+stylianides’ definition
+conviction explanation multiple representation
+explanatory proofs distinction follows proves “shows
+theorem evidential reasons alone” explanatory
+theorem reasons derive
+phenomenon itself” interpret hanna’s “proofs prove”
+synonymous proofs convince mathematics educators consider
+pedagogical explanatory proofs agrees arguing
+primary purpose proofs mathematical practice conviction primary
+purpose classrooms explanation mathematical research
+purpose convince
+convinces qualified judges classroom purpose
+explain” numerous mathematics educators endorse conclusion explanatory
+proofs mathematics classrooms villiers
+stylianides
+explanatory mathematics education
+accept explanatory proofs classrooms
+explanatory however mathematics educators
+observed shared operationalization explanatory exists bartlo
+indeed telling reading
+edited volume explanation operationalized definition
+distinguish proofs explain proofs convince
+following bartlo’s literature review mathematics educators’ attempts
+clarify meaning explanatory proofs typically
+matics educators adapted definitions explanatory philosophy literature
+instance steiner explanatory reveals “characteristic
+property” property characteristic property
+technique substitute characteristic property
+theorem defines explanatory proofs characteristic properties
+“following steiner explains ‘characteristic
+property’ entails theorem purports prove” however definitions
+evaluate explanatory nature independently student reading
+bartlo accepts premise explanatory
+mathematician explanatory student objective audienceindependent
+definitions incomplete mathematics educators’ purposes
+second mathematics educators examples proofs
+explanatory bartlo summarized typical examples
+involve showing proofs involve pictures stating visual
+proofs explain proving showing proofs induction involving
+complicated algebra stating proofs statement
+offering explanation bartlo
+instance offers proofs positive integers
+exemplifies proves mathematical induction saying
+acceptable demonstrates mathematical statement
+however integers
+lockwood
+characteristic property nintegers responsible
+presents diagrammatic argument explains although
+characteristic property relies explained
+examples debates explanatory proofs consensus
+explanatory inductive proofs considered paradigmatic
+proofs explanatory mathematics educators
+argued proofs explanatory stylianides
+approach defining explanatory proofs posits explanation
+rooted students’ proving activity balacheff nunokawa
+stylianides alcock commonality
+approaches process proving engage argumentative processes
+insight theorem insufficiently rigorous qualify
+closely resembles informal reasoning processes create
+qualifies explanatory reminds garuti lemut’s
+construct cognitive cognitive achieved individual’s
+process evaluate conjecture constructed
+establish conjecture cognitive achieved possibly nonrigorous insights
+explain theorem individual produces
+viewed explanatory individual approach illuminating
+proves
+explains
+conviction explanation multiple representation
+explanation coevolve proving process nunokawa
+respect explanation definition rooted proving activity
+balacheff nunokawa proofs properly understood
+explanations balacheff explicitly endorses position however
+contrast claims proofs
+explanatory undesirable lectures bartlo
+explanatory individual individual linking
+activity argument instance combinatorialists
+explanatory reflecting
+generated
+bartlo approaches provides adequate
+characterization explanatory mathematics educators’ purposes believe
+insights nature explanatory adequate
+theory account summarize
+whether explanatory should depend reading
+nonetheless uniformity mathematics educators’ judgments whether
+proofs explanatory
+proofs explicitly visual reasoning frequently judged explanatory
+purely algebraic demonstrations considered explanatory
+explanatory audiences
+individuals’ engagement proving process relate process
+understand theorem
+mining explanatory
+theory contend accounts phenomena
+characterizing conviction explanation
+representation systems
+representation systems
+recall stylianides’ characterization argument presented
+representation acceptable community professional classroom
+extend representation systems subsequent sections define
+arguments convincing explanatory
+following alcock consistent balacheff define
+representation structure permissible configurations inferential
+schemes permissible configurations organizations inscriptions symbols
+represent mathematical objects relationships objects permissible
+configurations include equations graphs english sentences inferential schemes
+mathematical statements mathematical statements
+statements represented permissible configurations personal inferential
+providing definition intent
+lockwood
+scheme individual’s possibly pragmatic defeasible statements
+permissible configurations truthpreserving inferential scheme inferential scheme
+individual believes statements premises
+inferential scheme inferential scheme regarded mathematical community
+truthpreserving acceptable
+illustrate combinatorial notion choose denoted
+notion
+reasoned exemplify
+elaborate enumerative
+couched choose represented natural
+language sentences describing reallife situations chooses objects
+objects choosing committees sentences respective
+characters permissible configurations system crucial inferential scheme
+combinatorial expressions represented
+counting objects combinatorial expressions
+inferential schemes multiplication principle equivalence
+algebraic couched choose
+represented expression
+characters involve symbols variables
+permissible configurations include algebraic expressions equations crucial
+ential scheme transitive property equality numbers
+inferential schemes include general algebraic techniques properties factorials
+individual chooses reason impact
+arguments construct arguments difficult replicate
+instance algebraic
+enumerative however correspondence
+inference cognitive effort analogous inference
+illustrate represents
+mathematical concept imagine justify shortest
+stroll producing justification second
+graphical cognitively demanding easier
+understand
+personal inferences individual produce understand
+familiarity natural inferences important
+clarifications inferences natural depends individual viewing
+northx moving intuitive experience reading reasoning
+diagrams experience visual
+permit natural inferences second sufficient experience inferences
+natural expert mysterious layperson instance
+substantial experience school algebra natural simplify
+expressions canceling expressions numerator denominator though
+learners simplifications challenging natural inferences
+truthpreserving instance concluding function increasing
+defeasible generally
+permissible mejiaramos
+discussion manageable students’ reasoning
+shared understanding student community inferential
+conviction explanation multiple representation
+schemes permissible oversimplification respects students
+reasoning understand difference personal
+inferential schemes balacheff regard explanatory proofs speaking
+mature students second professional mathematical communities
+ambiguity inferential schemes require justifica
+generalizing framework simplified interesting
+future research
+convincing arguments relationship
+mathematical argument convincing individual
+characteristics axioms definitions statements individual
+believes employs personal inferential schemes individual believes
+preserving couched within mapped individual
+personally meaningful personally meaningful individual understands
+permissible configurations represent relationship mathematical
+consideration
+biggest difference evaluating argument convincing
+qualifies personal psychological judgment latter
+inherently social judgment evaluating argument
+requires argument community
+requirement characterization argument convincing
+sfard’s representations promenades strolls
+lockwood
+regard stylianides’ description requires
+accepted statements community presume statement
+definition statement proven accepted convincing
+argument individual statement
+community accepted instance imagine mathematician believes
+riemann hypothesis mathematicians argument
+showing statement implied riemann hypothesis convincing argument
+riemann hypothesis
+theorem
+regard individual inferential schemes
+preserving classroom community
+mathematical community regard instance students
+conviction generalizing examples impermissible
+regard individual personally meaningful
+mathematical community inappropriate instance
+proofs without nelsen picture arguments
+convincing qualify proofs similarly describes
+student graphical justification “completely convincing”
+qualify student’s rationale graphs
+basing professional…
+that’s learning allowed pictures”
+student distinguishes inferential schemes personally convinc
+believes finally examples illustrate
+individuals argument convincing
+proofs convincing instance
+inferential scheme individual mathematical community accepts
+individual personal doubts students argument
+couched student understand occurs rarely
+mathematical practice students accept proofs
+unpersuasive
+explanatory arguments relationship conviction
+define mathematical argument explanatory individual respect
+characteristics axioms definitions statements
+individual believes employs inferential schemes natural
+couched within mapped individual personally valuable
+personally valuable personally meaningful individual addition
+interesting individuals’ reasons
+personally valuing idiosyncratic general factors students
+mathematicians consider mathematicians prefer
+“proper context” meaning relates primary meanings concepts
+involved proven statement paseau instance individual thought
+choosing element subsets element
+conviction explanation multiple representation
+formula
+secondary expression algebraically capture
+number choose subsets enumerative
+alternatively individual
+abbreviation
+choosing element subsets element interesting interpretation
+application expression abbreviated
+algebraic
+paseau mathematicians disagree “proper context”
+second personally valued individual aligns
+individual’s preferred reasoning instance individual prefers reason
+visually represent concepts diagrammatically
+perceptual inferences
+relationship conviction observe
+framing explanation explanatory differences
+explanation parallel differences conviction
+earlier evaluating argument involves social judgment evaluating
+argument explanatory psychological judgment instance individuals
+nelsen nelsen’s “proofs words” explanatory because
+natural inferences qualify bonafide proofs because
+inappropriate
+mathematics education literature explanatory proofs
+arguments explanatory proofs remainder
+explanatory proofs contrasting convincing proofs explanatory
+highlight consequences definition explanatory arguments
+contend explanatory proofs generally convincing criterion
+conviction explanation identical regard conception
+preserving inference natural individual individual verify cumber
+calculation finding natural calculation require substantial
+cognitive effort alternatively natural inference
+preserving however general individual inference natural
+understands valuable criteria explanation believes
+mathematicians inference criterion individual
+typically inference truthpreserving criterion conviction finally
+criterion explanation implies criterion conviction personally
+valuable personally meaningful
+second definition explanations explaining
+consistent mathematicians “explain” writing
+corpus analysis number mathematical articles mejiaramos inglis
+mathematicians phrase “explain
+“explain emphasizing explaining suggesting
+explanatory explains procedure justification central
+balacheff defined explanation psychological construct social construct
+characterized representation systems however studentgenerated proofs
+viewed socially accepted explanation proofs explanations characterization
+studentgenerated explanatory generated nonnatural inferences
+student personally
+lockwood
+understanding explanatory propose explanatory
+outlines method statement justified explaining
+statement justified explicit statement
+proofs globally explanatory explanatory respect
+explained justify desirable
+reasoning instance explains identity enumeratively
+explains algebraically explore subsequent section
+fourth definition studentcentered respect recall defined
+natural inferences inferences individual produce understand
+familiarity whether inferential scheme natural partially
+dependent individual’s experience working further respect
+considered valuable individuals
+reiterate extent considered
+explanatory closely individual’s knowledge background
+experience
+clarifying aspects explanatory discussion
+mathematical examples combinatorial context
+insights proofs binomial identities
+elaborate definitions explanatory examples
+combinatorics involving binomial identities experience naturally itself
+moving indeed describe commonplace secondary
+perhaps enumerative relationship perhaps algebraic appreciate
+upcoming discussion moment identity integers
+binomial coefficients satisfy
+interpret
+coefficients polynomial assertion subsets element
+describing property recursively defined triangular pascal’s triangle
+depending answer question
+expectations constitutes “proof explains”
+proofs explanatory convincing
+section proofs representation systems
+proofs emphasize enumeration algebra
+binomial theorem acknowledging explore additional
+expression induction blockwalking taylor’s theorem
+explanatory enumerative enumerative
+identity represent counting processes lockwood
+outcomes direct combinatorial
+outcomes bijection bijective combinatorial
+conviction explanation multiple representation
+inferential schemes include enumerative arguments fundamental combina
+torial principles unique cardinality simplicity
+direct combinatorial
+identity member
+committees people interpret statement relates
+expressions counting subsets element lefthand counts number
+member committees selecting
+committeethe righthand counts number member committees
+enumerating complements selecting
+committee because identity quantity
+number member committees expressions numerically
+explains justify combinatorial identity counting subsets
+insight statement
+explanatory algebraic accept enumerative justifica
+convincing
+combinatorial identity justified algebraically algebraic
+interpreted statement factorial expressions involving nonnegative integers
+inference include properties integers algebraic
+substituting algebraic interpretation binomial coefficients
+applying algebra yields
+algebra manipulate transform expression
+algebraically equivalent statement follows algebraic
+explains enumerative justify identity
+algebraic inferences detailing identity justified algebraically
+proves algebraic proofs
+examples proofs introduction
+explanatory binomial theorem perceive
+binomial coefficients
+binomial theorem theorem states
+nonnegative integers
+akbn−k
+interpretation
+coefficient expansion
+expression inference involve algebraic expansion
+equality coefficients
+theorem extends noninteger values version
+lockwood
+justify following
+explains derived context binomial
+theorem explicit binomial coefficients
+relies algebra proofs
+appeal specific inference respective initial
+involves interpreting algebraic expression
+specific coefficients binomial expansions
+reflections algebraic enumerative proofs explained
+proofs reference points continuing discussion proofs explain
+proofs convince proofs
+algebraic convinces enumerative explanatory
+between enumerative
+involves evocative realworld activity choosing committees algebraic
+involves symbolpushing understand appeal perspective
+combinatorialists enumerative proofs satisfying however
+deeper proofs considered explanatory
+convincing depending individual
+contend question explaining simple inquiry
+clearer viewed context example
+enumerative explanatory enumerative demonstrates
+justified counting subsets particular committees however
+enumerative explanatory algebraic focused binomial
+theorem understands enumerative remains
+mystery result interpret
+coefficient
+binomial expansion conversely algebraic explanation
+identity justified enumerative domain however explanatory
+algebra interpreting
+quotient factorial expressions
+constitutes explanation relative interpret
+relate convincing contend
+convincing individual explanatory
+interpret examples multiple proofs identity
+algebraic convincing individual
+enumerative explanatory explain enumeration
+individual acknowledges validity identity
+conviction explanation multiple representation
+function translation device enumerative algebraic
+similarly enumerative convince algebraic
+enumerative offers insight specific algebraic
+verify algebraic
+commonly relationships combinatorics
+emphasize identity nonnegative integer
+identity natural enumeratively number subsets
+elements lefthand counts summing numbers element
+subsets values righthand counts considering
+elements include element subset identity
+straightforward binomial theorem substituting
+however apparent algebraic
+quotients factorial expressions enumerative
+convince ultimate correctness algebraic confidence
+algebraic derivation exists explicitly reveal explain conjectured
+algebraic neededwas convinced identity
+suffice enumerative argument binomial theorem result
+algebraic argument sought understand miraculous algebraic
+algebraically remain mystified proofs before
+commonly combinatorics research proceed direction
+algebra convince identities difficult enumeratively example
+generating functions wellestablished technique translating combinatorial questions
+algebraic settings algebra derive results translating combina
+torial context generating functions explanatory algebraic demonstrat
+algebraic manipulations establish relationship necessarily
+explain relationship justified enumeratively
+proofs convince explain wonderful
+aspect mathematics affording opportunities develop convincing proofs
+derivation preferred difficult
+overly simplistic characterize objectively convincing explanatory
+precisely explained particular
+statement interpreted
+relation previous insights explanatory
+earlier summarized insights explanatory proofs mathematics education
+literature characterization explanatory account
+characterization challenges
+explanatory proofs individualdependent
+whether explanatory individual depends critically
+individual understands personally values students experiences
+interests reasoning preferences relationship specific different
+lockwood
+student’s tendency algebra enumeration comfort
+algebra feeling inadequacy inexperience counting
+problems enumeratively indeed student difficulties combinatorics documented
+batanero navarropelayo godino students understandable
+algebra counting algebraic
+comfortable confident similarly mathematician
+enumerative offers insight enumeration technique
+comfortable confident algebra
+uniformity proofs explanatory
+paragraphs uniformity tendency visual
+arguments explanatory tendency complicated algebraic arguments
+proofs visual reasoning explanatory
+bartlo observes mathematics educators visual proofs explanatory
+proofs proofs involve inferential schemes intuitions
+dimensional euclidean mejiaramos geometry learned
+instance hanna’s explanatory relies
+geometric intuition students extensive mathematical training
+geometric working understood inferential schemes
+relying twodimensional euclidean natural reason justifica
+couched visual viewed explanatory
+proofs complex algebraic manipulations explanatory
+bartlo observes frequent exemplars nonexplanatory proofs
+complicated algebra algebraic manipulations complicated
+implies algebraic inferences framed requiring substantial cognitive
+effort natural standard templatebased proofs induction
+highlights nonexplanatory interesting special
+algebraic inferences truthpreserving reflection
+natural inferences easily algebraic further overarching
+structure inductive involves deducing inductive
+hypothesis individual understood induction verify
+sufficient theorem obvious surface
+theorem statement about” instance unlike
+hanna’s explanatory presented represent summation
+numbers accumulation quantities however stylianides
+proofs induction explanatory manifestations students’
+natural recursive reasoning addition complex algebraic proofs
+typically explain individual explained combinatorial
+identities algebraic expressions mathematical phenomena
+objects individual values algebra individual
+justify explain statement
+conviction explanation multiple representation
+students proofs result
+proving process explanatory
+stylianides nunokawa observe conditions students
+inwhich students’ product initial exploration
+explanatory insight consequence characterization explanation
+students explore veracity conjectures understand
+personally students decide conjecture
+explanatory argument generated cognitive garuti
+argument achieved individual perceive mapping
+explanatory argument produced satisfies condition
+explanatory
+conclusion
+threefold propose theory explanatory proofs mathematics
+education framed representation systems inwhich proofs developed written
+understood combinatorics domain illustrate proposed theory
+leverage theory explain audiencedependent audienceinvariant aspects explanatory
+proofwanting simply labeling proofs explanatory contributed
+nuanced perspective proofs explain
+notion reframe students’ proving activity
+students student
+activity proofbased classes students credit simply dismissing
+activity asmeaningless purely syntactic example student algebrawhen
+binomial identity assume engaging superficially sufficiently
+attempting understand situation conceptually student viewing statement
+proven algebraic represent primary meaning
+themby clarifying argumentsmight construed explanatory convincing individual
+suggesting arguments explanatory variety
+broader individuals usemathematical concepts
+perspectives perspective proofs explain agency prover
+acknowledgments anonymous reviewers helpful comments
+references
+balacheff bridging knowing proving mathematics didactical perspective
+jahnke explanation mathematics philosophical
+educational perspectives springer
+bartlo exploration mathematics classroom
+unpublished doctoral dissertation portland university portland
+batanero navarropelayo godino effect implicit combinatorial combina
+torial reasoning secondary school pupils educational studies mathematics
+skepticism development classroom educational
+studies mathematics
+lockwood
+villiers function villiers rethinking
+geometer’s sketchpad emeryville curriculum
+garuti cognitive theorems difficulty olivier
+newstead proceedings conference international psychology
+mathematics education stellenbosch africa
+pedagogical aspects interchange
+development ofmathematical induction schemeamodel fordnrbased instruction
+campbell zaskis learning teaching number theory norwood
+sowder students schemes edubinsky schoenfeld edsresearch
+collegiate mathematics education providence american mathematical society
+proving convincing explaining educational studies mathematics
+proofs mathematical induction generally explanatory analysis
+lockwood students’ combinatorial thinking journal mathematical behavior
+httpsdoiorgjjmathb
+mejiaramos inglis ‘explanatory’ mathematics papers weinberg
+rasmussen proceedings conference research
+undergraduate mathematics education california
+nelsen proofs exercises visual thinking washington
+nunokawa mathematical problemsolving explanation mathematical teaching
+jahnke explanation mathematics philosophical
+educational perspectives springer
+paseau proofs compactness theorem history philosophy
+jahnke explanation mathematics philosophical
+educational perspectives springer
+understand
+educational studies mathematics
+nature mathematical conceptions reflections processes objects
+educational studies mathematics
+steiner mathematical explanation philosophical studies
+stylianides proving school mathematics journal research mathematics
+education
+stylianides sandefur watson conditions proving mathematical induction
+explanatory journal mathematical behavior
+proofs develop insight proofs reconceive mathematical domains proofs
+methods learning mathematics
+mathematics majors’ perceptions conviction validity mathematical thinking
+learning
+alcock semantic syntactic productions educational studies mathematics
+alcock semantic syntactic reasoning proving advanced mathematics
+classrooms invited chapter undergraduate blanton stylinaiou
+teaching learning curriculum
+routledge
+mejiaramos empirical admissibility graphical inferences
+mathematical proofs aberdein inglis advances experimental philosophy
+mathematics london bloomsbury
+publisher’s springer nature remains neutral regard jurisdictional claims published
+institutional affiliations
+conviction explanation multiple representation

@@ -1,0 +1,142 @@
+Total Topis : 
+
+Topic0: number(0.066188) ritualisation(0.039884) points(0.019944) activity(0.016126) sinclair(0.014005) numbers(0.013156) thinking(0.013156) structured(0.013156) touching(0.012308) hundred(0.011883)
+
+Topic1: problems(0.049851) students(0.040149) algebraic(0.035131) problem(0.033124) structure(0.030113) problemposing(0.020076) structures(0.019742) symbolism(0.0174) meaning(0.016396) semantic(0.015058)
+
+Topic2: concepts(0.041709) derivative(0.034867) differential(0.030957) relationship(0.02607) method(0.021182) geogebra(0.021182) dynamic(0.020205) participants(0.019553) acodesa(0.018576) students(0.015643)
+
+Topic3: number(0.063293) students(0.053448) confidence(0.042548) misconceptions(0.02989) students’(0.020397) questions(0.017232) threetier(0.014771) correct(0.014068) sample(0.014068) responses(0.013716)
+
+Topic4: anxiety(0.041825) performance(0.034416) children(0.033592) mathematics(0.027006) cognitive(0.020584) attitudes(0.019596) school(0.016797) arithmetic(0.012845) memory(0.012681) problemsolving(0.012516)
+
+Topic5: function(0.053265) inverse(0.038803) noticing(0.037745) students(0.036687) concept(0.018345) reciprocal(0.016581) student(0.014465) melissa(0.014465) teachers(0.01376) teacher(0.01376)
+
+Topic6: mathematics(0.090849) affect(0.048971) children(0.042545) anxiety(0.036784) affective(0.023046) beliefs(0.021938) factor(0.019944) emotions(0.015956) children’s(0.01374) hannula(0.013297)
+
+Topic7: assessment(0.078126) summative(0.032718) credit(0.025883) moment(0.017582) formative(0.016117) cabral(0.014164) social(0.012211) baldino(0.011723) student(0.011235) splitting(0.010258)
+
+Topic8: mathematics(0.096774) education(0.064652) journal(0.051749) educational(0.038031) learning(0.037827) research(0.031851) mathematical(0.022683) studies(0.02214) international(0.021529) psychology(0.017997)
+
+Topic9: mathematical(0.087924) competency(0.049438) competencies(0.049106) competence(0.026214) mathematics(0.020905) subject(0.016924) matter(0.012943) højgaard(0.012943) situations(0.012279) contexts(0.009957)
+
+Topic10: problems(0.057856) decrease(0.035767) increase(0.032962) pictorial(0.028404) change(0.023495) problem(0.022093) auditory(0.022093) modality(0.021742) number(0.019989) children(0.019638)
+
+Topic11: students(0.057864) algebraic(0.034967) thinking(0.033725) variable(0.022543) algebra(0.022366) grades(0.017396) relationship(0.016153) students’(0.015798) blanton(0.015443) variables(0.014734)
+
+Topic12: teachers(0.065159) teaching(0.051396) learning(0.050722) teacher(0.039173) school(0.030126) teachers’(0.02618) mathematics(0.026084) students(0.025025) development(0.021656) classroom(0.018865)
+
+Topic13: knowledge(0.031865) intervention(0.027857) participants(0.027056) numbers(0.026855) rational(0.026254) sample(0.02425) sampling(0.02425) lesson(0.020042) teacher(0.017036) series(0.015833)
+
+Topic14: scores(0.028342) sample(0.027956) frequency(0.022172) performance(0.018509) effects(0.016003) problem(0.015039) characteristics(0.014268) solution(0.014268) students(0.01234) groups(0.011376)
+
+Topic15: digital(0.040566) technology(0.026128) design(0.023722) education(0.023378) teacher(0.020285) students(0.020285) environments(0.016847) technologies(0.015816) distance(0.015472) courses(0.014441)
+
+Topic16: intuitive(0.06472) problems(0.046975) problem(0.038624) conceptions(0.028186) strategies(0.026795) conception(0.026447) teachers(0.020184) teachers’(0.019836) arithmetic(0.019836) knowledge(0.018096)
+
+Topic17: implementation(0.02611) professional(0.022468) strategies(0.01761) material(0.01761) schools(0.016396) approaches(0.015789) materials(0.013664) improvement(0.012753) communities(0.012753) strategy(0.012753)
+
+Topic18: school(0.048988) algebraic(0.047116) primary(0.038692) thinking(0.037444) secondary(0.036508) teachers(0.036196) pattern(0.032452) knowledge(0.028395) activities(0.024027) generalisation(0.022467)
+
+Topic19: language(0.037676) students(0.028966) students’(0.018029) quarter(0.017421) english(0.017219) cummins(0.010737) bigger(0.010332) eighth(0.010332) african(0.010332) classroom(0.009319)
+
+Topic20: skills(0.059136) kindergarten(0.037994) arithmetical(0.035681) orientation(0.031717) motivational(0.031717) orientations(0.02544) social(0.022137) achievement(0.019824) number(0.019494) lepola(0.018833)
+
+Topic21: ritual(0.048522) rituals(0.035268) learning(0.026984) routines(0.02154) practices(0.017043) explorations(0.016807) teaching(0.01444) discourse(0.014203) participation(0.01373) heydmetzuyanim(0.01302)
+
+Topic22: mathematical(0.074985) mathematics(0.04292) learning(0.03346) process(0.02171) understanding(0.020017) thinking(0.019818) processes(0.01922) theoretical(0.017228) concepts(0.014341) knowledge(0.013743)
+
+Topic23: mathematics(0.105292) education(0.064285) studies(0.052371) educational(0.043781) university(0.043781) abstract(0.026048) published(0.025771) springer(0.021615) nature(0.021615) keywords(0.021061)
+
+Topic24: teachers(0.035175) educational(0.031102) factors(0.025179) classroom(0.024809) contextual(0.024438) policy(0.021477) sweden(0.018515) swedish(0.016664) events(0.016293) practices(0.014813)
+
+Topic25: brackets(0.042674) intuitive(0.038345) students(0.032779) expression(0.030305) answers(0.018865) expressions(0.017937) operations(0.017319) structure(0.017009) correct(0.013917) midpoint(0.01299)
+
+Topic26: collective(0.027806) students(0.024275) shapes(0.019421) processes(0.018539) defining(0.018539) semiotic(0.017656) dialogic(0.016773) definitions(0.016773) collaborative(0.015891) parallelogram(0.015891)
+
+Topic27: students(0.042612) geometry(0.020365) inquiry(0.019988) points(0.015463) geometric(0.015463) activity(0.013955) variation(0.012824) version(0.011693) coincide(0.010939) logical(0.010184)
+
+Topic28: students(0.048114) procedure(0.035629) procedural(0.028017) procedures(0.024363) algorithm(0.019186) written(0.017055) strategy(0.01675) justifications(0.015532) column(0.013705) flexibility(0.013401)
+
+Topic29: multiplication(0.058845) measurement(0.032468) situations(0.027395) product(0.024352) approach(0.015559) division(0.015221) groups(0.014545) situation(0.014207) numbers(0.013868) number(0.012854)
+
+Topic30: children(0.051047) number(0.03899) elements(0.036578) desired(0.023315) berries(0.022913) children’s(0.01809) probabilities(0.017286) correct(0.016483) compare(0.016081) undesired(0.013267)
+
+Topic31: digital(0.043251) mathematical(0.039949) knowledge(0.021792) katrine(0.01618) jankvist(0.014529) procedures(0.013869) concept(0.013539) students’(0.013209) students(0.012548) equations(0.011888)
+
+Topic32: function(0.037057) students(0.032426) students’(0.030573) process(0.023626) mathematical(0.021773) reasoning(0.018068) sinusoidal(0.017141) period(0.015289) parameters(0.014363) aspects(0.013899)
+
+Topic33: affect(0.036798) vygotsky(0.027726) mathematics(0.02571) emotions(0.021677) psychology(0.019661) education(0.014117) affective(0.013613) aurélie(0.012605) relation(0.011093) thérèse(0.010589)
+
+Topic34: inclusion(0.071778) mathematics(0.05424) education(0.043523) studies(0.020789) students(0.019814) inclusive(0.017866) discourse(0.017216) diversity(0.016891) equity(0.016242) discourses(0.014293)
+
+Topic35: history(0.024596) concept(0.021478) conceptions(0.021478) knowledge(0.018361) conception(0.017322) sensesf(0.016283) historical(0.015244) sequence(0.014551) theoretical(0.013512) meaning(0.012819)
+
+Topic36: student(0.05551) cognitive(0.045263) conflict(0.043982) difficulties(0.021353) geometry(0.017937) triangles(0.016656) angles(0.016229) procedure(0.015375) strategy(0.014948) teacher(0.014094)
+
+Topic37: answer(0.043041) student(0.037281) question(0.033441) problem(0.031201) number(0.024161) solution(0.021121) questions(0.018241) numbers(0.015361) examples(0.014081) situation(0.013761)
+
+Topic38: discourse(0.064959) epistemic(0.035046) participation(0.033336) competence(0.025644) students’(0.022653) practices(0.020089) classroom(0.017952) explaining(0.017952) discursive(0.017525) language(0.017098)
+
+Topic39: reading(0.079361) mathematics(0.035522) textbook(0.031682) styles(0.027522) exercises(0.023683) connections(0.019203) students(0.016003) worked(0.015683) reader(0.015043) examples(0.014403)
+
+Topic40: mathematics(0.176616) education(0.10426) research(0.034042) school(0.031546) teaching(0.026022) national(0.022992) science(0.022279) curriculum(0.016398) educational(0.014437) teachers(0.014437)
+
+Topic41: analysis(0.051434) participants(0.023315) identified(0.016553) conducted(0.016375) interviews(0.015663) groups(0.014773) school(0.013527) questions(0.013527) selected(0.012993) analyzed(0.011925)
+
+Topic42: classroom(0.042727) classrooms(0.040214) cultural(0.02709) student(0.026252) discourse(0.025135) mathematics(0.023459) mathematical(0.022622) analysis(0.022622) speaking(0.01564) language(0.015361)
+
+Topic43: mathematics(0.056898) education(0.042761) chapter(0.023796) philosophy(0.021727) curriculum(0.017244) creative(0.016899) chapters(0.016555) commons(0.015865) approach(0.01552) resources(0.015175)
+
+Topic44: children(0.044097) numbers(0.043331) intervention(0.043331) arithmetic(0.042564) number(0.021859) addition(0.019175) control(0.017641) preschool(0.017641) counting(0.016108) children’s(0.015341)
+
+Topic45: students’(0.066505) mathematical(0.042406) understanding(0.042101) prospective(0.034474) teachers(0.032949) teachers’(0.028983) answers(0.023797) student(0.022577) elements(0.021662) noticing(0.021662)
+
+Topic46: mathematics(0.086487) achievement(0.057871) numeracy(0.041655) learning(0.031799) school(0.020034) resources(0.019398) children’s(0.018127) selfefficacy(0.017809) children(0.016537) studies(0.012721)
+
+Topic47: number(0.045171) attention(0.04034) solution(0.032127) children(0.027055) children’s(0.021741) reports(0.018601) shifts(0.017152) solving(0.015219) properties(0.015219) verbal(0.013046)
+
+Topic48: professional(0.037912) learning(0.031423) teachers(0.030399) development(0.029033) curriculum(0.0263) teacher(0.025617) algebra(0.022544) materials(0.018445) teaching(0.018104) formats(0.017079)
+
+Topic49: students(0.045849) ritualenabling(0.044488) teacher(0.039041) routine(0.028601) lesson(0.028147) explorationrequiring(0.026785) routines(0.024516) teaching(0.021792) procedure(0.019976) lessons(0.018161)
+
+Topic50: language(0.119488) mathematics(0.026674) languages(0.026674) meaning(0.020984) resource(0.020273) learners(0.018495) learning(0.01814) culture(0.017784) discourses(0.014939) tensions(0.014583)
+
+Topic51: selfefficacy(0.064185) students(0.036584) competence(0.036251) effects(0.034256) multiple(0.033591) problems(0.03226) solutions(0.031595) perceived(0.02827) teaching(0.026275) mathematical(0.024612)
+
+Topic52: classroom(0.050196) number(0.034644) students(0.032523) teachers(0.024393) practices(0.022979) mathematics(0.020858) instruction(0.018384) textbook(0.018031) ritual(0.016617) teaching(0.01591)
+
+Topic53: analysis(0.023034) drawing(0.020356) interview(0.019284) discussion(0.015803) process(0.012857) that’s(0.010983) shared(0.010447) explain(0.010447) pointing(0.010179) previous(0.009911)
+
+Topic54: children’s(0.047125) children(0.046708) mathematical(0.033781) worthington(0.017518) language(0.016684) contexts(0.014182) symbolic(0.014182) nursery(0.014182) abstraction(0.01168) cultural(0.009178)
+
+Topic55: series(0.068018) teachers’(0.029426) textbook(0.02828) teachers(0.025987) personal(0.022166) content(0.021402) teaching(0.016816) documentation(0.016434) resource(0.014524) applications(0.012995)
+
+Topic56: identity(0.070509) identities(0.043036) studies(0.026503) social(0.023586) listening(0.013861) method(0.011429) students’(0.0107) defining(0.009241) dimensions(0.008998) education(0.008269)
+
+Topic57: modeling(0.054912) mathematical(0.040083) students(0.02365) france(0.020043) modelling(0.01844) german(0.017639) mathematics(0.015635) germany(0.015635) students’(0.015234) situation(0.015234)
+
+Topic58: explanations(0.063113) explanation(0.058669) students(0.050669) student(0.033781) teacher(0.032448) interaction(0.024892) answer(0.023115) interactional(0.01867) question(0.016004) explicitly(0.014226)
+
+Topic59: perimeter(0.058727) blending(0.027688) students(0.026429) process(0.025171) infinite(0.024752) spaces(0.023074) blended(0.020138) students’(0.019299) infinity(0.01846) conceptual(0.016363)
+
+Topic60: generalization(0.06537) pattern(0.038945) reasoning(0.033034) grades(0.026428) student(0.024342) levels(0.023647) progression(0.019474) students(0.018779) figural(0.017388) generalizations(0.016345)
+
+Topic61: mathematical(0.052671) thinking(0.05195) curriculum(0.050868) assessment(0.038242) examination(0.035356) reform(0.034635) regular(0.031749) assignments(0.019844) papers(0.017319) students(0.016598)
+
+Topic62: operation(0.052163) binary(0.047876) operations(0.0343) critical(0.028227) students(0.028227) metaphors(0.025012) arithmetic(0.015008) attributes(0.014294) function(0.013937) aspects(0.013579)
+
+Topic63: movements(0.038744) geometry(0.030996) processes(0.026154) mental(0.023248) schindler(0.019374) lilienthal(0.017437) problem(0.016953) interpretation(0.015985) recall(0.012111) movement(0.012111)
+
+Topic64: proofs(0.056482) explanatory(0.054293) individual(0.02496) algebraic(0.019268) explanation(0.016203) argument(0.015328) theorem(0.014014) explain(0.011825) inferential(0.011387) enumerative(0.011387)
+
+Topic65: scaling(0.025135) innovations(0.023366) innovation(0.020888) motivation(0.017348) regional(0.016286) krainer(0.015224) factors(0.015224) competence(0.013454) initiative(0.0131) austria(0.012393)
+
+Topic66: mathematics(0.04071) students(0.039235) teacher(0.029796) discourses(0.022126) problem(0.017112) reform(0.016227) student(0.014162) school(0.012392) practices(0.012097) teachers(0.011802)
+
+Topic67: problem(0.101326) solving(0.066801) mathematical(0.064299) problems(0.053041) studies(0.035528) papers(0.031525) school(0.030775) thinking(0.027773) students’(0.025271) primary(0.019267)
+
+Topic68: pupils(0.050855) fractions(0.046262) fraction(0.034779) problem(0.033139) reasoning(0.029202) problems(0.027233) partwhole(0.022312) number(0.021656) subconstruct(0.018704) congruency(0.014767)
+
+Topic69: however(0.01778) example(0.013417) students(0.013219) specific(0.010873) context(0.00932) general(0.007832) question(0.007271) understand(0.007138) aspects(0.007072) considered(0.006676)
+

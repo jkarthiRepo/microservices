@@ -1,0 +1,19 @@
+
+
+Topic:0 problem(0.7464) review(0.9134) reasoning(0.2765) studies(0.7327) students(0.9296) thinking(0.7601) papers(0.3750)
+
+Topic:1 chapter(0.3926) education(0.6282) chapters(0.1596) ernest(0.9892) reading(0.3136) students(0.2648) philosophy(0.9122) approach(0.2813)
+
+Topic:2 number(0.4062) researchers(0.9572) questions(0.8450) classroom(0.5471) teaching(0.4270) learning(0.1735) discussion(0.1424) example(0.8438)
+
+Topic:3 process(0.8138) teacher(0.5273) ritual(0.7019) teachers(0.8233) infinite(0.2184) perimeter(0.6151) understanding(0.9040) routines(0.8968) practices(0.8202)
+
+Topic:4 material(0.3274) schools(0.2531) school(0.6593) implementation(0.2121) infinity(0.4229) strategy(0.8371)
+
+Topic:5 journal(0.0599) operations(0.5023) university(0.5358) aspects(0.1309) arithmetic(0.9299) operation(0.6586) metaphors(0.8701) theory(0.6052)
+
+Topic:6 division(0.9475) product(0.3087) expression(0.0913) groups(0.3793) definition(0.6014) expressions(0.3514) measurement(0.6596) situation(0.4100) situations(0.2309)
+
+Topic:7 argument(0.7140) proofs(0.3139) answers(0.1992) explanation(0.1040) enumerative(0.7945)
+
+Topic:8 inferential(0.2600)
